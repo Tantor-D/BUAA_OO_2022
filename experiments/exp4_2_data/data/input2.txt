@@ -1,0 +1,5 @@
+A:Assembling-Packing
+B:Welding-Polishing-Packing
+C:Welding-Packing
+D:Welding-Polishing-Assembling-Packing
+E:Welding-Polishing-Packing

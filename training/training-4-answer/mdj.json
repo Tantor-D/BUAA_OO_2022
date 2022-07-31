@@ -1,0 +1,180 @@
+{
+    "_type": "UMLStateMachine",
+    "_id": "AAAAAAF8apVT71MJ7Ng=",
+    "_parent": {
+        "$ref": "AAAAAAFF+h6SjaM2Hec="
+    },
+    "name": "StateMachine1",
+    "regions": [
+        {
+            "_type": "UMLRegion",
+            "_id": "AAAAAAF8apVT71MKSos=",
+            "_parent": {
+                "$ref": "AAAAAAF8apVT71MJ7Ng="
+            },
+            "vertices": [
+                {
+                    "_type": "UMLPseudostate",
+                    "_id": "AAAAAAF8apWUrFMQq48=",
+                    "_parent": {
+                        "$ref": "AAAAAAF8apVT71MKSos="
+                    },
+                    "kind": "initial"
+                },
+                {
+                    "_type": "UMLFinalState",
+                    "_id": "AAAAAAF8apWbhlMhac4=",
+                    "_parent": {
+                        "$ref": "AAAAAAF8apVT71MKSos="
+                    }
+                },
+                {
+                    "_type": "UMLState",
+                    "_id": "AAAAAAF8apWpu1MmkwA=",
+                    "_parent": {
+                        "$ref": "AAAAAAF8apVT71MKSos="
+                    },
+                    "name": "State1"
+                },
+                {
+                    "_type": "UMLState",
+                    "_id": "AAAAAAF8apWwcFNLSv8=",
+                    "_parent": {
+                        "$ref": "AAAAAAF8apVT71MKSos="
+                    },
+                    "name": "State2"
+                },
+                {
+                    "_type": "UMLState",
+                    "_id": "AAAAAAF8apccN1NwPiQ=",
+                    "_parent": {
+                        "$ref": "AAAAAAF8apVT71MKSos="
+                    },
+                    "name": "State3"
+                },
+                {
+                    "_type": "UMLState",
+                    "_id": "AAAAAAF8apcillOVr8k=",
+                    "_parent": {
+                        "$ref": "AAAAAAF8apVT71MKSos="
+                    },
+                    "name": "State4"
+                },
+                {
+                    "_type": "UMLState",
+                    "_id": "AAAAAAF8apcpmVO6TbQ=",
+                    "_parent": {
+                        "$ref": "AAAAAAF8apVT71MKSos="
+                    },
+                    "name": "State5"
+                }
+            ],
+            "transitions": [
+                {
+                    "_type": "UMLTransition",
+                    "_id": "AAAAAAF8apnO91PfLX4=",
+                    "_parent": {
+                        "$ref": "AAAAAAF8apVT71MKSos="
+                    },
+                    "source": {
+                        "$ref": "AAAAAAF8apWUrFMQq48="
+                    },
+                    "target": {
+                        "$ref": "AAAAAAF8apWpu1MmkwA="
+                    }
+                },
+                {
+                    "_type": "UMLTransition",
+                    "_id": "AAAAAAF8apnjm1PwoVE=",
+                    "_parent": {
+                        "$ref": "AAAAAAF8apVT71MKSos="
+                    },
+                    "source": {
+                        "$ref": "AAAAAAF8apWUrFMQq48="
+                    },
+                    "target": {
+                        "$ref": "AAAAAAF8apWwcFNLSv8="
+                    }
+                },
+                {
+                    "_type": "UMLTransition",
+                    "_id": "AAAAAAF8apnujlQB9Sw=",
+                    "_parent": {
+                        "$ref": "AAAAAAF8apVT71MKSos="
+                    },
+                    "source": {
+                        "$ref": "AAAAAAF8apWpu1MmkwA="
+                    },
+                    "target": {
+                        "$ref": "AAAAAAF8apccN1NwPiQ="
+                    }
+                },
+                {
+                    "_type": "UMLTransition",
+                    "_id": "AAAAAAF8apn3EFQSvPc=",
+                    "_parent": {
+                        "$ref": "AAAAAAF8apVT71MKSos="
+                    },
+                    "source": {
+                        "$ref": "AAAAAAF8apWwcFNLSv8="
+                    },
+                    "target": {
+                        "$ref": "AAAAAAF8apccN1NwPiQ="
+                    }
+                },
+                {
+                    "_type": "UMLTransition",
+                    "_id": "AAAAAAF8apoCqVQj6NI=",
+                    "_parent": {
+                        "$ref": "AAAAAAF8apVT71MKSos="
+                    },
+                    "source": {
+                        "$ref": "AAAAAAF8apccN1NwPiQ="
+                    },
+                    "target": {
+                        "$ref": "AAAAAAF8apcillOVr8k="
+                    }
+                },
+                {
+                    "_type": "UMLTransition",
+                    "_id": "AAAAAAF8apoKeFQ0X7A=",
+                    "_parent": {
+                        "$ref": "AAAAAAF8apVT71MKSos="
+                    },
+                    "source": {
+                        "$ref": "AAAAAAF8apccN1NwPiQ="
+                    },
+                    "target": {
+                        "$ref": "AAAAAAF8apcpmVO6TbQ="
+                    }
+                },
+                {
+                    "_type": "UMLTransition",
+                    "_id": "AAAAAAF8apoaJ1RFrYk=",
+                    "_parent": {
+                        "$ref": "AAAAAAF8apVT71MKSos="
+                    },
+                    "source": {
+                        "$ref": "AAAAAAF8apcillOVr8k="
+                    },
+                    "target": {
+                        "$ref": "AAAAAAF8apWbhlMhac4="
+                    }
+                },
+                {
+                    "_type": "UMLTransition",
+                    "_id": "AAAAAAF8apokyFRWqkQ=",
+                    "_parent": {
+                        "$ref": "AAAAAAF8apVT71MKSos="
+                    },
+                    "source": {
+                        "$ref": "AAAAAAF8apcpmVO6TbQ="
+                    },
+                    "target": {
+                        "$ref": "AAAAAAF8apWbhlMhac4="
+                    }
+                }
+            ]
+        }
+    ]
+}

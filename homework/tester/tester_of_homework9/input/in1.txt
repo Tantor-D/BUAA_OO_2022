@@ -1,0 +1,1000 @@
+ap 0 name_0 179
+ap 1 name_1 15
+ap 2 name_2 167
+ap 3 name_3 109
+ap 4 name_4 130
+ap 5 name_5 70
+ap 6 name_6 196
+ap 7 name_7 41
+ap 8 name_8 125
+ap 9 name_9 122
+ap 10 name_10 117
+ap 11 name_11 110
+ap 12 name_12 77
+ap 13 name_13 76
+ap 14 name_14 25
+ap 15 name_15 61
+ap 16 name_16 27
+ap 17 name_17 158
+ap 18 name_18 115
+ap 19 name_19 28
+ap 20 name_20 117
+ap 21 name_21 161
+ap 22 name_22 156
+ap 23 name_23 114
+ap 24 name_24 93
+ap 25 name_25 22
+ap 26 name_26 80
+ap 27 name_27 15
+ap 28 name_28 50
+ap 29 name_29 37
+ap 30 name_30 12
+ap 31 name_31 158
+ap 32 name_32 94
+ap 33 name_33 172
+ap 34 name_34 19
+ap 35 name_35 50
+ap 36 name_36 198
+ap 37 name_37 13
+ap 38 name_38 56
+ap 39 name_39 197
+ap 40 name_40 47
+ap 41 name_41 66
+ap 42 name_42 104
+ap 43 name_43 185
+ap 44 name_44 47
+ap 45 name_45 34
+ap 46 name_46 49
+ap 47 name_47 151
+ap 48 name_48 93
+ap 49 name_49 66
+ap 50 name_50 156
+ap 51 name_51 31
+ap 52 name_52 156
+ap 53 name_53 186
+ap 54 name_54 125
+ap 55 name_55 159
+ap 56 name_56 178
+ap 57 name_57 94
+ap 58 name_58 99
+ap 59 name_59 56
+ap 60 name_60 13
+ap 61 name_61 152
+ap 62 name_62 74
+ap 63 name_63 14
+ap 64 name_64 100
+ap 65 name_65 125
+ap 66 name_66 58
+ap 67 name_67 23
+ap 68 name_68 119
+ap 69 name_69 109
+ap 70 name_70 20
+ap 71 name_71 76
+ap 72 name_72 23
+ap 73 name_73 44
+ap 74 name_74 16
+ap 75 name_75 84
+ap 76 name_76 53
+ap 77 name_77 184
+ap 78 name_78 76
+ap 79 name_79 116
+ap 80 name_80 120
+ap 81 name_81 138
+ap 82 name_82 93
+ap 83 name_83 58
+ap 84 name_84 157
+ap 85 name_85 125
+ap 86 name_86 47
+ap 87 name_87 15
+ap 88 name_88 65
+ap 89 name_89 149
+ap 90 name_90 42
+ap 91 name_91 105
+ap 92 name_92 2
+ap 93 name_93 2
+ap 94 name_94 86
+ap 95 name_95 17
+ap 96 name_96 102
+ap 97 name_97 182
+ap 98 name_98 83
+ap 99 name_99 178
+ap 100 name_100 82
+ap 101 name_101 53
+ap 102 name_102 167
+ap 103 name_103 33
+ap 104 name_104 123
+ap 105 name_105 138
+ap 106 name_106 18
+ap 107 name_107 146
+ap 108 name_108 56
+ap 109 name_109 188
+ap 110 name_110 174
+ap 111 name_111 77
+ap 112 name_112 147
+ap 113 name_113 29
+ap 114 name_114 80
+ap 115 name_115 11
+ap 116 name_116 58
+ap 117 name_117 26
+ap 118 name_118 165
+ap 119 name_119 175
+ap 120 name_120 180
+ap 121 name_121 29
+ap 122 name_122 24
+ap 123 name_123 33
+ap 124 name_124 139
+ap 125 name_125 7
+ap 126 name_126 56
+ap 127 name_127 35
+ap 128 name_128 99
+ap 129 name_129 155
+ap 130 name_130 193
+ap 131 name_131 175
+ap 132 name_132 178
+ap 133 name_133 47
+ap 134 name_134 81
+ap 135 name_135 99
+ap 136 name_136 133
+ap 137 name_137 137
+ap 138 name_138 187
+ap 139 name_139 190
+ap 140 name_140 126
+ap 141 name_141 22
+ap 142 name_142 89
+ap 143 name_143 38
+ap 144 name_144 138
+ap 145 name_145 109
+ap 146 name_146 161
+ap 147 name_147 88
+ap 148 name_148 97
+ap 149 name_149 35
+ap 150 name_150 0
+ap 151 name_151 32
+ap 152 name_152 47
+ap 153 name_153 66
+ap 154 name_154 68
+ap 155 name_155 24
+ap 156 name_156 32
+ap 157 name_157 94
+ap 158 name_158 82
+ap 159 name_159 26
+ap 160 name_160 188
+ap 161 name_161 152
+ap 162 name_162 173
+ap 163 name_163 165
+ap 164 name_164 200
+ap 165 name_165 187
+ap 166 name_166 45
+ap 167 name_167 22
+ap 168 name_168 124
+ap 169 name_169 127
+ap 170 name_170 91
+ap 171 name_171 149
+ap 172 name_172 22
+ap 173 name_173 166
+ap 174 name_174 84
+ap 175 name_175 132
+ap 176 name_176 131
+ap 177 name_177 32
+ap 178 name_178 72
+ap 179 name_179 200
+ap 180 name_180 12
+ap 181 name_181 3
+ap 182 name_182 186
+ap 183 name_183 83
+ap 184 name_184 101
+ap 185 name_185 103
+ap 186 name_186 99
+ap 187 name_187 162
+ap 188 name_188 1
+ap 189 name_189 86
+ap 190 name_190 188
+ap 191 name_191 70
+ap 192 name_192 178
+ap 193 name_193 190
+ap 194 name_194 128
+ap 195 name_195 199
+ap 196 name_196 22
+ap 197 name_197 73
+ap 198 name_198 40
+ap 199 name_199 38
+ap 200 name_200 67
+ap 201 name_201 87
+ap 202 name_202 198
+ap 203 name_203 56
+ap 204 name_204 9
+ap 205 name_205 188
+ap 206 name_206 120
+ap 207 name_207 165
+ap 208 name_208 91
+ap 209 name_209 161
+ap 210 name_210 64
+ap 211 name_211 147
+ap 212 name_212 46
+ap 213 name_213 79
+ap 214 name_214 60
+ap 215 name_215 110
+ap 216 name_216 61
+ap 217 name_217 64
+ap 218 name_218 126
+ap 219 name_219 19
+ap 220 name_220 50
+ap 221 name_221 103
+ap 222 name_222 67
+ap 223 name_223 122
+ap 224 name_224 170
+ap 225 name_225 175
+ap 226 name_226 48
+ap 227 name_227 35
+ap 228 name_228 49
+ap 229 name_229 199
+ap 230 name_230 152
+ap 231 name_231 95
+ap 232 name_232 47
+ap 233 name_233 110
+ap 234 name_234 75
+ap 235 name_235 36
+ap 236 name_236 54
+ap 237 name_237 157
+ap 238 name_238 44
+ap 239 name_239 55
+ap 240 name_240 62
+ap 241 name_241 154
+ap 242 name_242 84
+ap 243 name_243 37
+ap 244 name_244 134
+ap 245 name_245 103
+ap 246 name_246 53
+ap 247 name_247 6
+ap 248 name_248 153
+ap 249 name_249 193
+ap 250 name_250 73
+ap 251 name_251 83
+ap 252 name_252 101
+ap 253 name_253 170
+ap 254 name_254 131
+ap 255 name_255 52
+ap 256 name_256 158
+ap 257 name_257 120
+ap 258 name_258 27
+ap 259 name_259 128
+ap 260 name_260 161
+ap 261 name_261 163
+ap 262 name_262 157
+ap 263 name_263 33
+ap 264 name_264 37
+ap 265 name_265 173
+ap 266 name_266 1
+ap 267 name_267 124
+ap 268 name_268 13
+ap 269 name_269 54
+ap 270 name_270 24
+ap 271 name_271 16
+ap 272 name_272 193
+ap 273 name_273 180
+ap 274 name_274 178
+ap 275 name_275 73
+ap 276 name_276 116
+ap 277 name_277 35
+ap 278 name_278 96
+ap 279 name_279 170
+ap 280 name_280 109
+ap 281 name_281 18
+ap 282 name_282 164
+ap 283 name_283 123
+ap 284 name_284 164
+ap 285 name_285 12
+ap 286 name_286 90
+ap 287 name_287 33
+ap 288 name_288 49
+ap 289 name_289 133
+ap 290 name_290 67
+ap 291 name_291 34
+ap 292 name_292 151
+ap 293 name_293 69
+ap 294 name_294 147
+ap 295 name_295 198
+ap 296 name_296 116
+ap 297 name_297 174
+ap 298 name_298 139
+ag 0
+ag 1
+ag 2
+ag 3
+ag 4
+ag 5
+ag 6
+ag 7
+ag 8
+ag 9
+ag 10
+ag 11
+ag 12
+ar 265 82 181
+ar 16 244 738
+ar 209 224 71
+ar 64 68 247
+ar 287 204 101
+ar 92 86 519
+ar 2 53 441
+ar 45 108 98
+ar 231 142 939
+ar 267 31 638
+ar 204 259 638
+ar 166 155 435
+ar 175 146 874
+ar 39 131 755
+ar 271 251 502
+ar 128 8 237
+ar 94 69 857
+ar 213 267 666
+ar 114 129 220
+ar 277 21 613
+ar 130 263 434
+ar 17 132 602
+ar 39 252 618
+ar 255 136 674
+ar 174 267 633
+ar 135 288 525
+ar 115 275 518
+ar 196 114 314
+ar 117 251 199
+ar 112 42 606
+ar 50 21 307
+ar 22 49 151
+ar 68 292 75
+ar 205 22 136
+ar 30 222 345
+ar 246 282 292
+ar 282 67 903
+ar 297 37 62
+ar 62 121 206
+ar 132 158 958
+ar 197 218 641
+ar 211 228 903
+ar 172 54 893
+ar 17 36 309
+ar 117 242 926
+ar 163 26 749
+ar 64 184 65
+ar 294 277 67
+ar 295 154 632
+ar 142 216 241
+ar 179 147 468
+ar 221 60 345
+ar 194 120 496
+ar 107 155 454
+ar 213 146 220
+ar 156 189 733
+ar 266 140 204
+ar 209 117 784
+ar 170 267 967
+ar 16 132 659
+ar 72 200 223
+ar 131 277 450
+ar 15 180 915
+ar 114 258 953
+ar 269 242 421
+ar 204 82 176
+ar 181 162 453
+ar 201 22 726
+ar 162 66 98
+ar 139 230 225
+ar 40 199 509
+ar 229 236 943
+ar 35 170 404
+ar 144 232 547
+ar 161 151 582
+ar 23 60 769
+ar 149 186 164
+ar 248 110 812
+ar 183 49 685
+ar 116 157 668
+ar 99 256 710
+ar 232 52 34
+ar 247 234 854
+ar 137 270 492
+ar 235 112 171
+ar 165 10 929
+ar 270 171 294
+ar 248 28 840
+ar 44 166 954
+ar 14 242 734
+ar 203 103 415
+ar 176 56 615
+ar 220 268 186
+ar 133 4 572
+ar 283 103 512
+ar 56 123 917
+ar 196 176 659
+ar 95 243 12
+ar 282 24 530
+ar 2 281 600
+ar 123 163 129
+ar 283 153 220
+ar 140 255 424
+ar 102 143 103
+ar 241 254 935
+ar 122 124 724
+ar 75 229 309
+ar 270 41 601
+ar 167 211 828
+ar 53 179 834
+ar 272 97 963
+ar 254 34 826
+ar 48 25 799
+ar 241 191 202
+ar 223 58 243
+ar 73 168 842
+ar 163 163 697
+ar 273 111 651
+ar 102 7 913
+ar 295 37 517
+ar 286 293 589
+ar 190 159 795
+ar 120 33 204
+ar 156 273 233
+ar 161 94 793
+ar 198 221 864
+ar 162 43 438
+ar 182 52 96
+ar 55 68 289
+ar 230 14 329
+ar 260 22 649
+ar 11 289 437
+ar 87 18 760
+ar 199 221 672
+ar 288 230 347
+ar 109 289 229
+ar 140 122 733
+ar 224 24 854
+ar 128 217 678
+ar 225 79 122
+ar 83 265 886
+ar 240 41 764
+ar 234 282 504
+ar 173 33 328
+ar 28 17 397
+ar 237 143 693
+ar 21 169 241
+ar 92 138 444
+ar 209 245 308
+ar 176 243 571
+ar 233 192 210
+ar 61 31 552
+ar 45 183 345
+ar 221 286 651
+ar 145 0 936
+ar 16 2 38
+ar 115 232 279
+ar 83 130 272
+ar 177 241 827
+ar 281 135 14
+ar 68 150 283
+ar 95 87 16
+ar 19 147 678
+ar 289 121 554
+ar 262 177 963
+ar 254 230 531
+ar 92 89 354
+ar 39 166 370
+ar 238 19 771
+ar 210 25 92
+ar 248 83 291
+ar 246 286 120
+ar 127 33 309
+ar 282 100 757
+ar 271 260 175
+ar 244 228 491
+ar 283 179 478
+ar 276 289 395
+ar 154 210 716
+ar 281 7 88
+ar 285 8 712
+ar 251 226 842
+ar 293 84 525
+ar 227 111 997
+ar 102 82 457
+ar 176 119 456
+ar 184 268 214
+ar 130 247 346
+ar 4 35 147
+ar 156 145 954
+ar 230 65 750
+ar 105 173 989
+ar 155 85 877
+ar 30 268 23
+ar 71 20 219
+ar 16 189 738
+ar 285 288 707
+ar 218 285 952
+ar 74 74 311
+ar 229 172 315
+ar 171 202 17
+ar 147 245 122
+ar 41 78 17
+ar 86 141 117
+ar 210 25 599
+ar 248 152 968
+ar 24 282 317
+ar 221 136 839
+ar 103 163 10
+ar 128 149 996
+ar 253 137 742
+ar 80 149 825
+ar 288 8 673
+ar 258 155 148
+ar 174 245 460
+ar 237 77 638
+ar 103 248 898
+ar 109 75 632
+ar 164 195 907
+ar 248 204 678
+ar 36 71 101
+ar 186 52 63
+ar 250 66 76
+ar 38 277 539
+ar 216 120 305
+ar 116 69 505
+ar 34 213 143
+ar 147 294 776
+ar 40 14 230
+ar 147 184 353
+ar 140 149 823
+ar 155 132 115
+ar 134 37 710
+ar 90 182 364
+ar 31 143 195
+ar 129 80 166
+ar 243 224 725
+ar 192 17 345
+ar 293 18 797
+ar 189 167 422
+ar 18 238 496
+ar 159 128 912
+ar 220 213 450
+ar 172 92 176
+ar 163 193 633
+ar 275 134 381
+ar 113 9 884
+ar 176 42 528
+ar 245 34 166
+ar 89 237 597
+ar 286 33 353
+ar 148 281 352
+ar 121 276 643
+ar 217 253 284
+ar 141 174 410
+ar 118 263 719
+ar 195 213 275
+ar 124 179 146
+ar 134 86 788
+ar 138 249 720
+ar 70 198 767
+ar 109 44 154
+ar 216 270 758
+ar 203 124 292
+ar 63 66 83
+ar 121 228 974
+ar 122 246 693
+ar 139 178 582
+ar 146 279 660
+ar 195 75 780
+ar 99 291 952
+ar 197 111 28
+ar 236 42 907
+ar 151 22 35
+ar 270 82 180
+ar 23 235 461
+ar 96 225 357
+ar 50 270 225
+ar 16 236 399
+ar 106 94 189
+ar 140 280 970
+ar 184 113 771
+ar 182 23 420
+ar 200 282 626
+ar 193 3 479
+ar 43 272 37
+ar 130 70 354
+ar 145 205 315
+ar 278 15 552
+ar 96 107 571
+ar 263 175 756
+ar 74 144 91
+ar 273 190 289
+ar 172 269 512
+ar 220 79 453
+ar 99 271 900
+ar 153 239 374
+ar 295 191 633
+ar 243 42 113
+ar 166 249 623
+ar 129 128 904
+ar 16 147 691
+ar 240 173 917
+ar 11 92 445
+ar 83 131 476
+ar 147 235 580
+ar 34 8 801
+ar 280 68 199
+ar 32 40 552
+ar 257 73 834
+ar 84 272 610
+ar 89 48 203
+ar 21 65 542
+ar 152 121 573
+ar 52 129 713
+ar 158 7 79
+ar 150 116 108
+ar 18 189 476
+ar 131 4 777
+ar 146 229 381
+ar 88 83 842
+ar 126 259 994
+ar 62 137 915
+ar 17 102 209
+ar 273 262 31
+ar 106 34 109
+ar 54 128 513
+ar 240 65 988
+ar 28 205 553
+ar 71 177 234
+ar 296 68 60
+ar 296 95 606
+ar 112 40 427
+ar 7 27 763
+ar 59 202 765
+ar 1 186 988
+ar 77 155 177
+ar 217 277 169
+ar 296 231 651
+ar 133 14 710
+ar 154 206 718
+ar 72 222 156
+ar 257 95 119
+ar 175 14 828
+ar 94 219 121
+ar 74 43 158
+ar 124 294 833
+ar 95 154 973
+ar 212 266 768
+ar 209 124 21
+ar 49 217 281
+ar 217 123 967
+ar 154 65 645
+ar 268 132 304
+ar 45 225 870
+ar 16 198 860
+ar 290 62 231
+ar 253 79 365
+ar 244 71 807
+ar 93 214 610
+ar 194 233 857
+ar 139 291 725
+ar 210 292 137
+ar 281 114 318
+ar 19 273 201
+ar 261 108 150
+ar 70 57 628
+ar 243 219 180
+ar 116 86 244
+ar 130 242 490
+ar 104 109 597
+ar 241 149 513
+ar 112 63 826
+ar 146 249 819
+ar 141 243 795
+ar 164 69 114
+ar 270 106 943
+ar 290 296 210
+ar 15 174 385
+ar 72 225 621
+ar 3 103 164
+ar 78 181 356
+ar 110 68 206
+ar 123 13 595
+ar 78 208 668
+ar 270 129 187
+ar 103 105 223
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs

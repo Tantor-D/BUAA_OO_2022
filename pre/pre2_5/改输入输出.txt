@@ -1,0 +1,18 @@
+Scanner scanner = null; // 不能在try-catch中定义Scanner，它对外界不可见。记得初始化为null
+        try {  // 在语句块内部定义的变量，作用域在语句块内部，外部不可见。
+            scanner = new Scanner(new File("in.txt"));// 这个in1.txt是相对于这个项目的，不是相对于项目中的src文件夹
+        } catch (Exception e) {
+            System.out.println("修改读入失败");
+        }
+        
+        try {
+            PrintStream outStream = new PrintStream("myOut.txt");  // 定义一个PrintStream类型的输出流
+            System.setOut(outStream);  // 利用System的setOut()函数重定向输出
+        } catch (Exception e) {
+            System.out.println("修改输出失败");
+        }
+
+
+
+        import java.io.File;
+        import java.io.PrintStream;

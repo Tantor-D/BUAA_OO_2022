@@ -1,0 +1,1000 @@
+ap 0 p_0 0
+ap 1 p_1 0
+ap 2 p_2 0
+ap 3 p_3 0
+ap 4 p_4 0
+ap 5 p_5 0
+ap 6 p_6 0
+ap 7 p_7 0
+ap 8 p_8 0
+ap 9 p_9 0
+ap 10 p_10 0
+ap 11 p_11 0
+ap 12 p_12 0
+ap 13 p_13 0
+ap 14 p_14 0
+ap 15 p_15 0
+ap 16 p_16 0
+ap 17 p_17 0
+ap 18 p_18 0
+ap 19 p_19 0
+ap 20 p_20 0
+ap 21 p_21 0
+ap 22 p_22 0
+ap 23 p_23 0
+ap 24 p_24 0
+ap 25 p_25 0
+ap 26 p_26 0
+ap 27 p_27 0
+ap 28 p_28 0
+ap 29 p_29 0
+ap 30 p_30 0
+ap 31 p_31 0
+ap 32 p_32 0
+ap 33 p_33 0
+ap 34 p_34 0
+ap 35 p_35 0
+ap 36 p_36 0
+ap 37 p_37 0
+ap 38 p_38 0
+ap 39 p_39 0
+ap 40 p_40 0
+ap 41 p_41 0
+ap 42 p_42 0
+ap 43 p_43 0
+ap 44 p_44 0
+ap 45 p_45 0
+ap 46 p_46 0
+ap 47 p_47 0
+ap 48 p_48 0
+ap 49 p_49 0
+ap 50 p_50 0
+ap 51 p_51 0
+ap 52 p_52 0
+ap 53 p_53 0
+ap 54 p_54 0
+ap 55 p_55 0
+ap 56 p_56 0
+ap 57 p_57 0
+ap 58 p_58 0
+ap 59 p_59 0
+ap 60 p_60 0
+ap 61 p_61 0
+ap 62 p_62 0
+ap 63 p_63 0
+ap 64 p_64 0
+ap 65 p_65 0
+ap 66 p_66 0
+ap 67 p_67 0
+ap 68 p_68 0
+ap 69 p_69 0
+ap 70 p_70 0
+ap 71 p_71 0
+ap 72 p_72 0
+ap 73 p_73 0
+ap 74 p_74 0
+ap 75 p_75 0
+ap 76 p_76 0
+ap 77 p_77 0
+ap 78 p_78 0
+ap 79 p_79 0
+ap 80 p_80 0
+ap 81 p_81 0
+ap 82 p_82 0
+ap 83 p_83 0
+ap 84 p_84 0
+ap 85 p_85 0
+ap 86 p_86 0
+ap 87 p_87 0
+ap 88 p_88 0
+ap 89 p_89 0
+ap 90 p_90 0
+ap 91 p_91 0
+ap 92 p_92 0
+ap 93 p_93 0
+ap 94 p_94 0
+ap 95 p_95 0
+ap 96 p_96 0
+ap 97 p_97 0
+ap 98 p_98 0
+ap 99 p_99 0
+ap 100 p_100 0
+ap 101 p_101 0
+ap 102 p_102 0
+ap 103 p_103 0
+ap 104 p_104 0
+ap 105 p_105 0
+ap 106 p_106 0
+ap 107 p_107 0
+ap 108 p_108 0
+ap 109 p_109 0
+ap 110 p_110 0
+ap 111 p_111 0
+ap 112 p_112 0
+ap 113 p_113 0
+ap 114 p_114 0
+ap 115 p_115 0
+ap 116 p_116 0
+ap 117 p_117 0
+ap 118 p_118 0
+ap 119 p_119 0
+ap 120 p_120 0
+ap 121 p_121 0
+ap 122 p_122 0
+ap 123 p_123 0
+ap 124 p_124 0
+ap 125 p_125 0
+ap 126 p_126 0
+ap 127 p_127 0
+ap 128 p_128 0
+ap 129 p_129 0
+ap 130 p_130 0
+ap 131 p_131 0
+ap 132 p_132 0
+ap 133 p_133 0
+ap 134 p_134 0
+ap 135 p_135 0
+ap 136 p_136 0
+ap 137 p_137 0
+ap 138 p_138 0
+ap 139 p_139 0
+ap 140 p_140 0
+ap 141 p_141 0
+ap 142 p_142 0
+ap 143 p_143 0
+ap 144 p_144 0
+ap 145 p_145 0
+ap 146 p_146 0
+ap 147 p_147 0
+ap 148 p_148 0
+ap 149 p_149 0
+ap 150 p_150 0
+ap 151 p_151 0
+ap 152 p_152 0
+ap 153 p_153 0
+ap 154 p_154 0
+ap 155 p_155 0
+ap 156 p_156 0
+ap 157 p_157 0
+ap 158 p_158 0
+ap 159 p_159 0
+ap 160 p_160 0
+ap 161 p_161 0
+ap 162 p_162 0
+ap 163 p_163 0
+ap 164 p_164 0
+ap 165 p_165 0
+ap 166 p_166 0
+ap 167 p_167 0
+ap 168 p_168 0
+ap 169 p_169 0
+ap 170 p_170 0
+ap 171 p_171 0
+ap 172 p_172 0
+ap 173 p_173 0
+ap 174 p_174 0
+ap 175 p_175 0
+ap 176 p_176 0
+ap 177 p_177 0
+ap 178 p_178 0
+ap 179 p_179 0
+ap 180 p_180 0
+ap 181 p_181 0
+ap 182 p_182 0
+ap 183 p_183 0
+ap 184 p_184 0
+ap 185 p_185 0
+ap 186 p_186 0
+ap 187 p_187 0
+ap 188 p_188 0
+ap 189 p_189 0
+ap 190 p_190 0
+ap 191 p_191 0
+ap 192 p_192 0
+ap 193 p_193 0
+ap 194 p_194 0
+ap 195 p_195 0
+ap 196 p_196 0
+ap 197 p_197 0
+ap 198 p_198 0
+ap 199 p_199 0
+ap 200 p_200 0
+ap 201 p_201 0
+ap 202 p_202 0
+ap 203 p_203 0
+ap 204 p_204 0
+ap 205 p_205 0
+ap 206 p_206 0
+ap 207 p_207 0
+ap 208 p_208 0
+ap 209 p_209 0
+ap 210 p_210 0
+ap 211 p_211 0
+ap 212 p_212 0
+ap 213 p_213 0
+ap 214 p_214 0
+ap 215 p_215 0
+ap 216 p_216 0
+ap 217 p_217 0
+ap 218 p_218 0
+ap 219 p_219 0
+ap 220 p_220 0
+ap 221 p_221 0
+ap 222 p_222 0
+ap 223 p_223 0
+ap 224 p_224 0
+ap 225 p_225 0
+ap 226 p_226 0
+ap 227 p_227 0
+ap 228 p_228 0
+ap 229 p_229 0
+ap 230 p_230 0
+ap 231 p_231 0
+ap 232 p_232 0
+ap 233 p_233 0
+ap 234 p_234 0
+ap 235 p_235 0
+ap 236 p_236 0
+ap 237 p_237 0
+ap 238 p_238 0
+ap 239 p_239 0
+ap 240 p_240 0
+ap 241 p_241 0
+ap 242 p_242 0
+ap 243 p_243 0
+ap 244 p_244 0
+ap 245 p_245 0
+ap 246 p_246 0
+ap 247 p_247 0
+ap 248 p_248 0
+ap 249 p_249 0
+ap 250 p_250 0
+ap 251 p_251 0
+ap 252 p_252 0
+ap 253 p_253 0
+ap 254 p_254 0
+ap 255 p_255 0
+ap 256 p_256 0
+ap 257 p_257 0
+ap 258 p_258 0
+ap 259 p_259 0
+ap 260 p_260 0
+ap 261 p_261 0
+ap 262 p_262 0
+ap 263 p_263 0
+ap 264 p_264 0
+ap 265 p_265 0
+ap 266 p_266 0
+ap 267 p_267 0
+ap 268 p_268 0
+ap 269 p_269 0
+ap 270 p_270 0
+ap 271 p_271 0
+ap 272 p_272 0
+ap 273 p_273 0
+ap 274 p_274 0
+ap 275 p_275 0
+ap 276 p_276 0
+ap 277 p_277 0
+ap 278 p_278 0
+ap 279 p_279 0
+ap 280 p_280 0
+ap 281 p_281 0
+ap 282 p_282 0
+ap 283 p_283 0
+ap 284 p_284 0
+ap 285 p_285 0
+ap 286 p_286 0
+ap 287 p_287 0
+ap 288 p_288 0
+ap 289 p_289 0
+ap 290 p_290 0
+ap 291 p_291 0
+ap 292 p_292 0
+ap 293 p_293 0
+ap 294 p_294 0
+ap 295 p_295 0
+ap 296 p_296 0
+ap 297 p_297 0
+ap 298 p_298 0
+ap 299 p_299 0
+ap 300 p_300 0
+ap 301 p_301 0
+ap 302 p_302 0
+ap 303 p_303 0
+ap 304 p_304 0
+ap 305 p_305 0
+ap 306 p_306 0
+ap 307 p_307 0
+ap 308 p_308 0
+ap 309 p_309 0
+ap 310 p_310 0
+ap 311 p_311 0
+ap 312 p_312 0
+ap 313 p_313 0
+ap 314 p_314 0
+ap 315 p_315 0
+ap 316 p_316 0
+ap 317 p_317 0
+ap 318 p_318 0
+ap 319 p_319 0
+ap 320 p_320 0
+ap 321 p_321 0
+ap 322 p_322 0
+ap 323 p_323 0
+ap 324 p_324 0
+ap 325 p_325 0
+ap 326 p_326 0
+ap 327 p_327 0
+ap 328 p_328 0
+ap 329 p_329 0
+ap 330 p_330 0
+ap 331 p_331 0
+ap 332 p_332 0
+ap 333 p_333 0
+ap 334 p_334 0
+ap 335 p_335 0
+ap 336 p_336 0
+ap 337 p_337 0
+ap 338 p_338 0
+ap 339 p_339 0
+ap 340 p_340 0
+ap 341 p_341 0
+ap 342 p_342 0
+ap 343 p_343 0
+ap 344 p_344 0
+ap 345 p_345 0
+ap 346 p_346 0
+ap 347 p_347 0
+ap 348 p_348 0
+ap 349 p_349 0
+ap 350 p_350 0
+ap 351 p_351 0
+ap 352 p_352 0
+ap 353 p_353 0
+ap 354 p_354 0
+ap 355 p_355 0
+ap 356 p_356 0
+ap 357 p_357 0
+ap 358 p_358 0
+ap 359 p_359 0
+ap 360 p_360 0
+ap 361 p_361 0
+ap 362 p_362 0
+ap 363 p_363 0
+ap 364 p_364 0
+ap 365 p_365 0
+ap 366 p_366 0
+ap 367 p_367 0
+ap 368 p_368 0
+ap 369 p_369 0
+ap 370 p_370 0
+ap 371 p_371 0
+ap 372 p_372 0
+ap 373 p_373 0
+ap 374 p_374 0
+ap 375 p_375 0
+ap 376 p_376 0
+ap 377 p_377 0
+ap 378 p_378 0
+ap 379 p_379 0
+ap 380 p_380 0
+ap 381 p_381 0
+ap 382 p_382 0
+ap 383 p_383 0
+ap 384 p_384 0
+ap 385 p_385 0
+ap 386 p_386 0
+ap 387 p_387 0
+ap 388 p_388 0
+ap 389 p_389 0
+ap 390 p_390 0
+ap 391 p_391 0
+ap 392 p_392 0
+ap 393 p_393 0
+ap 394 p_394 0
+ap 395 p_395 0
+ap 396 p_396 0
+ap 397 p_397 0
+ap 398 p_398 0
+ap 399 p_399 0
+ap 400 p_400 0
+ap 401 p_401 0
+ap 402 p_402 0
+ap 403 p_403 0
+ap 404 p_404 0
+ap 405 p_405 0
+ap 406 p_406 0
+ap 407 p_407 0
+ap 408 p_408 0
+ap 409 p_409 0
+ap 410 p_410 0
+ap 411 p_411 0
+ap 412 p_412 0
+ap 413 p_413 0
+ap 414 p_414 0
+ap 415 p_415 0
+ap 416 p_416 0
+ap 417 p_417 0
+ap 418 p_418 0
+ap 419 p_419 0
+ap 420 p_420 0
+ap 421 p_421 0
+ap 422 p_422 0
+ap 423 p_423 0
+ap 424 p_424 0
+ap 425 p_425 0
+ap 426 p_426 0
+ap 427 p_427 0
+ap 428 p_428 0
+ap 429 p_429 0
+ap 430 p_430 0
+ap 431 p_431 0
+ap 432 p_432 0
+ap 433 p_433 0
+ap 434 p_434 0
+ap 435 p_435 0
+ap 436 p_436 0
+ap 437 p_437 0
+ap 438 p_438 0
+ap 439 p_439 0
+ap 440 p_440 0
+ap 441 p_441 0
+ap 442 p_442 0
+ap 443 p_443 0
+ap 444 p_444 0
+ap 445 p_445 0
+ap 446 p_446 0
+ap 447 p_447 0
+ap 448 p_448 0
+ap 449 p_449 0
+ap 450 p_450 0
+ap 451 p_451 0
+ap 452 p_452 0
+ap 453 p_453 0
+ap 454 p_454 0
+ap 455 p_455 0
+ap 456 p_456 0
+ap 457 p_457 0
+ap 458 p_458 0
+ap 459 p_459 0
+ap 460 p_460 0
+ap 461 p_461 0
+ap 462 p_462 0
+ap 463 p_463 0
+ap 464 p_464 0
+ap 465 p_465 0
+ap 466 p_466 0
+ap 467 p_467 0
+ap 468 p_468 0
+ap 469 p_469 0
+ap 470 p_470 0
+ap 471 p_471 0
+ap 472 p_472 0
+ap 473 p_473 0
+ap 474 p_474 0
+ap 475 p_475 0
+ap 476 p_476 0
+ap 477 p_477 0
+ap 478 p_478 0
+ap 479 p_479 0
+ap 480 p_480 0
+ap 481 p_481 0
+ap 482 p_482 0
+ap 483 p_483 0
+ap 484 p_484 0
+ap 485 p_485 0
+ap 486 p_486 0
+ap 487 p_487 0
+ap 488 p_488 0
+ap 489 p_489 0
+ap 490 p_490 0
+ap 491 p_491 0
+ap 492 p_492 0
+ap 493 p_493 0
+ap 494 p_494 0
+ap 495 p_495 0
+ap 496 p_496 0
+ap 497 p_497 0
+ap 498 p_498 0
+ap 499 p_499 0
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs
+qbs

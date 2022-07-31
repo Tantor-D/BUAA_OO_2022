@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>MainClass</OriginalElement>
+  <nodes>
+    <node x="432.0" y="1141.0">MainClass</node>
+    <node x="0.0" y="1141.0">MyTool</node>
+    <node x="0.0" y="925.0">HealingPotion</node>
+    <node x="604.8055555555555" y="543.0">Sword</node>
+    <node x="146.30555555555554" y="497.0">Bottle</node>
+    <node x="472.0" y="925.0">EpicSword</node>
+    <node x="586.5" y="0.0">ValuableStuff</node>
+    <node x="250.0" y="925.0">ExpBottle</node>
+    <node x="701.0" y="925.0">RareSword</node>
+    <node x="825.8055555555555" y="405.0">Adventurer</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="HealingPotion" target="Bottle" relationship="GENERALIZATION">
+      <point x="0.0" y="-85.5" />
+      <point x="115.0" y="900.0" />
+      <point x="242.80555555555554" y="900.0" />
+      <point x="0.0" y="143.0" />
+    </edge>
+    <edge source="Sword" target="ValuableStuff" relationship="GENERALIZATION">
+      <point x="0.0" y="-97.0" />
+      <point x="705.3055555555555" y="380.0" />
+      <point x="695.5" y="380.0" />
+      <point x="0.0" y="177.5" />
+    </edge>
+    <edge source="EpicSword" target="Sword" relationship="GENERALIZATION">
+      <point x="0.0" y="-85.5" />
+      <point x="576.5" y="900.0" />
+      <point x="705.3055555555555" y="900.0" />
+      <point x="0.0" y="97.0" />
+    </edge>
+    <edge source="Adventurer" target="ValuableStuff" relationship="GENERALIZATION">
+      <point x="0.0" y="-235.0" />
+      <point x="990.3055555555555" y="380.0" />
+      <point x="695.5" y="380.0" />
+      <point x="0.0" y="177.5" />
+    </edge>
+    <edge source="ExpBottle" target="Bottle" relationship="GENERALIZATION">
+      <point x="0.0" y="-85.5" />
+      <point x="351.0" y="900.0" />
+      <point x="242.80555555555554" y="900.0" />
+      <point x="0.0" y="143.0" />
+    </edge>
+    <edge source="RareSword" target="Sword" relationship="GENERALIZATION">
+      <point x="0.0" y="-85.5" />
+      <point x="814.5" y="900.0" />
+      <point x="705.3055555555555" y="900.0" />
+      <point x="0.0" y="97.0" />
+    </edge>
+    <edge source="Bottle" target="ValuableStuff" relationship="GENERALIZATION">
+      <point x="0.0" y="-143.0" />
+      <point x="242.80555555555554" y="380.0" />
+      <point x="695.5" y="380.0" />
+      <point x="0.0" y="177.5" />
+    </edge>
+  </edges>
+  <settings layout="分层" zoom="0.4986381322957196" showDependencies="false" x="878.4301962816029" y="873.2235661334375" />
+  <SelectedNodes />
+  <Categories>
+    <Category>字段</Category>
+    <Category>方法</Category>
+    <Category>构造函数</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

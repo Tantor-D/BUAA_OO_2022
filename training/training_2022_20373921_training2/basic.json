@@ -1,0 +1,12 @@
+{
+    "1":"实现Runnable接口",
+    "2":"继承Thread类",
+    "3":"start()",
+    "4":"synchronized",
+    "5":"notify",
+    "6":"notifyAll",
+    "7":"生产者消费者模式",
+    "8":"extends Thread",
+    "9":"Thread t=new Thread(process2); t.start;",
+    "10":"C"
+}

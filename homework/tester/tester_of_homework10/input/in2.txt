@@ -1,0 +1,5000 @@
+ag 0
+ap 0 name_0 113
+atg 0 0
+ap 1 name_1 94
+atg 1 0
+ap 2 name_2 19
+atg 2 0
+ap 3 name_3 49
+atg 3 0
+ap 4 name_4 77
+atg 4 0
+ap 5 name_5 165
+atg 5 0
+ap 6 name_6 84
+atg 6 0
+ap 7 name_7 198
+atg 7 0
+ap 8 name_8 41
+atg 8 0
+ap 9 name_9 110
+atg 9 0
+ap 10 name_10 161
+atg 10 0
+ap 11 name_11 149
+atg 11 0
+ap 12 name_12 121
+atg 12 0
+ap 13 name_13 166
+atg 13 0
+ap 14 name_14 117
+atg 14 0
+ap 15 name_15 10
+atg 15 0
+ap 16 name_16 174
+atg 16 0
+ap 17 name_17 189
+atg 17 0
+ap 18 name_18 14
+atg 18 0
+ap 19 name_19 75
+atg 19 0
+ap 20 name_20 30
+atg 20 0
+ap 21 name_21 66
+atg 21 0
+ap 22 name_22 192
+atg 22 0
+ap 23 name_23 177
+atg 23 0
+ap 24 name_24 6
+atg 24 0
+ap 25 name_25 195
+atg 25 0
+ap 26 name_26 17
+atg 26 0
+ap 27 name_27 25
+atg 27 0
+ap 28 name_28 141
+atg 28 0
+ap 29 name_29 147
+atg 29 0
+ap 30 name_30 108
+atg 30 0
+ap 31 name_31 131
+atg 31 0
+ap 32 name_32 133
+atg 32 0
+ap 33 name_33 40
+atg 33 0
+ap 34 name_34 125
+atg 34 0
+ap 35 name_35 98
+atg 35 0
+ap 36 name_36 23
+atg 36 0
+ap 37 name_37 195
+atg 37 0
+ap 38 name_38 40
+atg 38 0
+ap 39 name_39 148
+atg 39 0
+ap 40 name_40 82
+atg 40 0
+ap 41 name_41 199
+atg 41 0
+ap 42 name_42 71
+atg 42 0
+ap 43 name_43 157
+atg 43 0
+ap 44 name_44 200
+atg 44 0
+ap 45 name_45 132
+atg 45 0
+ap 46 name_46 28
+atg 46 0
+ap 47 name_47 94
+atg 47 0
+ap 48 name_48 143
+atg 48 0
+ap 49 name_49 82
+atg 49 0
+ap 50 name_50 83
+atg 50 0
+ap 51 name_51 5
+atg 51 0
+ap 52 name_52 11
+atg 52 0
+ap 53 name_53 129
+atg 53 0
+ap 54 name_54 52
+atg 54 0
+ap 55 name_55 193
+atg 55 0
+ap 56 name_56 121
+atg 56 0
+ap 57 name_57 80
+atg 57 0
+ap 58 name_58 102
+atg 58 0
+ap 59 name_59 50
+atg 59 0
+ap 60 name_60 141
+atg 60 0
+ap 61 name_61 184
+atg 61 0
+ap 62 name_62 54
+atg 62 0
+ap 63 name_63 156
+atg 63 0
+ap 64 name_64 128
+atg 64 0
+ap 65 name_65 82
+atg 65 0
+ap 66 name_66 44
+atg 66 0
+ap 67 name_67 190
+atg 67 0
+ap 68 name_68 14
+atg 68 0
+ap 69 name_69 2
+atg 69 0
+ap 70 name_70 165
+atg 70 0
+ap 71 name_71 86
+atg 71 0
+ap 72 name_72 81
+atg 72 0
+ap 73 name_73 94
+atg 73 0
+ap 74 name_74 167
+atg 74 0
+ap 75 name_75 22
+atg 75 0
+ap 76 name_76 45
+atg 76 0
+ap 77 name_77 114
+atg 77 0
+ap 78 name_78 88
+atg 78 0
+ap 79 name_79 164
+atg 79 0
+ap 80 name_80 40
+atg 80 0
+ap 81 name_81 95
+atg 81 0
+ap 82 name_82 75
+atg 82 0
+ap 83 name_83 116
+atg 83 0
+ap 84 name_84 17
+atg 84 0
+ap 85 name_85 94
+atg 85 0
+ap 86 name_86 79
+atg 86 0
+ap 87 name_87 93
+atg 87 0
+ap 88 name_88 76
+atg 88 0
+ap 89 name_89 197
+atg 89 0
+ap 90 name_90 60
+atg 90 0
+ap 91 name_91 147
+atg 91 0
+ap 92 name_92 66
+atg 92 0
+ap 93 name_93 57
+atg 93 0
+ap 94 name_94 55
+atg 94 0
+ap 95 name_95 126
+atg 95 0
+ap 96 name_96 137
+atg 96 0
+ap 97 name_97 57
+atg 97 0
+ap 98 name_98 28
+atg 98 0
+ap 99 name_99 113
+atg 99 0
+ap 100 name_100 23
+atg 100 0
+ap 101 name_101 4
+atg 101 0
+ap 102 name_102 146
+atg 102 0
+ap 103 name_103 110
+atg 103 0
+ap 104 name_104 79
+atg 104 0
+ap 105 name_105 194
+atg 105 0
+ap 106 name_106 200
+atg 106 0
+ap 107 name_107 46
+atg 107 0
+ap 108 name_108 130
+atg 108 0
+ap 109 name_109 67
+atg 109 0
+ap 110 name_110 154
+atg 110 0
+ap 111 name_111 2
+atg 111 0
+ap 112 name_112 72
+atg 112 0
+ap 113 name_113 148
+atg 113 0
+ap 114 name_114 197
+atg 114 0
+ap 115 name_115 147
+atg 115 0
+ap 116 name_116 144
+atg 116 0
+ap 117 name_117 20
+atg 117 0
+ap 118 name_118 44
+atg 118 0
+ap 119 name_119 84
+atg 119 0
+ap 120 name_120 187
+atg 120 0
+ap 121 name_121 131
+atg 121 0
+ap 122 name_122 94
+atg 122 0
+ap 123 name_123 62
+atg 123 0
+ap 124 name_124 2
+atg 124 0
+ap 125 name_125 68
+atg 125 0
+ap 126 name_126 163
+atg 126 0
+ap 127 name_127 43
+atg 127 0
+ap 128 name_128 150
+atg 128 0
+ap 129 name_129 165
+atg 129 0
+ap 130 name_130 25
+atg 130 0
+ap 131 name_131 183
+atg 131 0
+ap 132 name_132 67
+atg 132 0
+ap 133 name_133 99
+atg 133 0
+ap 134 name_134 55
+atg 134 0
+ap 135 name_135 140
+atg 135 0
+ap 136 name_136 81
+atg 136 0
+ap 137 name_137 61
+atg 137 0
+ap 138 name_138 13
+atg 138 0
+ap 139 name_139 37
+atg 139 0
+ap 140 name_140 162
+atg 140 0
+ap 141 name_141 35
+atg 141 0
+ap 142 name_142 74
+atg 142 0
+ap 143 name_143 8
+atg 143 0
+ap 144 name_144 3
+atg 144 0
+ap 145 name_145 116
+atg 145 0
+ap 146 name_146 142
+atg 146 0
+ap 147 name_147 172
+atg 147 0
+ap 148 name_148 137
+atg 148 0
+ap 149 name_149 39
+atg 149 0
+ap 150 name_150 129
+atg 150 0
+ap 151 name_151 192
+atg 151 0
+ap 152 name_152 123
+atg 152 0
+ap 153 name_153 30
+atg 153 0
+ap 154 name_154 87
+atg 154 0
+ap 155 name_155 77
+atg 155 0
+ap 156 name_156 74
+atg 156 0
+ap 157 name_157 184
+atg 157 0
+ap 158 name_158 18
+atg 158 0
+ap 159 name_159 109
+atg 159 0
+ap 160 name_160 86
+atg 160 0
+ap 161 name_161 171
+atg 161 0
+ap 162 name_162 72
+atg 162 0
+ap 163 name_163 23
+atg 163 0
+ap 164 name_164 15
+atg 164 0
+ap 165 name_165 44
+atg 165 0
+ap 166 name_166 170
+atg 166 0
+ap 167 name_167 109
+atg 167 0
+ap 168 name_168 21
+atg 168 0
+ap 169 name_169 40
+atg 169 0
+ap 170 name_170 146
+atg 170 0
+ap 171 name_171 134
+atg 171 0
+ap 172 name_172 78
+atg 172 0
+ap 173 name_173 120
+atg 173 0
+ap 174 name_174 98
+atg 174 0
+ap 175 name_175 2
+atg 175 0
+ap 176 name_176 129
+atg 176 0
+ap 177 name_177 60
+atg 177 0
+ap 178 name_178 90
+atg 178 0
+ap 179 name_179 174
+atg 179 0
+ap 180 name_180 173
+atg 180 0
+ap 181 name_181 135
+atg 181 0
+ap 182 name_182 96
+atg 182 0
+ap 183 name_183 74
+atg 183 0
+ap 184 name_184 95
+atg 184 0
+ap 185 name_185 24
+atg 185 0
+ap 186 name_186 31
+atg 186 0
+ap 187 name_187 184
+atg 187 0
+ap 188 name_188 52
+atg 188 0
+ap 189 name_189 39
+atg 189 0
+ap 190 name_190 74
+atg 190 0
+ap 191 name_191 154
+atg 191 0
+ap 192 name_192 23
+atg 192 0
+ap 193 name_193 19
+atg 193 0
+ap 194 name_194 104
+atg 194 0
+ap 195 name_195 184
+atg 195 0
+ap 196 name_196 166
+atg 196 0
+ap 197 name_197 70
+atg 197 0
+ap 198 name_198 146
+atg 198 0
+ap 199 name_199 176
+atg 199 0
+ap 200 name_200 176
+atg 200 0
+ap 201 name_201 30
+atg 201 0
+ap 202 name_202 33
+atg 202 0
+ap 203 name_203 188
+atg 203 0
+ap 204 name_204 84
+atg 204 0
+ap 205 name_205 85
+atg 205 0
+ap 206 name_206 52
+atg 206 0
+ap 207 name_207 13
+atg 207 0
+ap 208 name_208 89
+atg 208 0
+ap 209 name_209 2
+atg 209 0
+ap 210 name_210 124
+atg 210 0
+ap 211 name_211 69
+atg 211 0
+ap 212 name_212 88
+atg 212 0
+ap 213 name_213 169
+atg 213 0
+ap 214 name_214 113
+atg 214 0
+ap 215 name_215 184
+atg 215 0
+ap 216 name_216 52
+atg 216 0
+ap 217 name_217 197
+atg 217 0
+ap 218 name_218 3
+atg 218 0
+ap 219 name_219 91
+atg 219 0
+ap 220 name_220 155
+atg 220 0
+ap 221 name_221 138
+atg 221 0
+ap 222 name_222 157
+atg 222 0
+ap 223 name_223 12
+atg 223 0
+ap 224 name_224 169
+atg 224 0
+ap 225 name_225 14
+atg 225 0
+ap 226 name_226 149
+atg 226 0
+ap 227 name_227 126
+atg 227 0
+ap 228 name_228 75
+atg 228 0
+ap 229 name_229 66
+atg 229 0
+ap 230 name_230 50
+atg 230 0
+ap 231 name_231 113
+atg 231 0
+ap 232 name_232 174
+atg 232 0
+ap 233 name_233 110
+atg 233 0
+ap 234 name_234 2
+atg 234 0
+ap 235 name_235 171
+atg 235 0
+ap 236 name_236 7
+atg 236 0
+ap 237 name_237 174
+atg 237 0
+ap 238 name_238 184
+atg 238 0
+ap 239 name_239 105
+atg 239 0
+ap 240 name_240 70
+atg 240 0
+ap 241 name_241 132
+atg 241 0
+ap 242 name_242 28
+atg 242 0
+ap 243 name_243 74
+atg 243 0
+ap 244 name_244 158
+atg 244 0
+ap 245 name_245 85
+atg 245 0
+ap 246 name_246 128
+atg 246 0
+ap 247 name_247 12
+atg 247 0
+ap 248 name_248 95
+atg 248 0
+ap 249 name_249 7
+atg 249 0
+ap 250 name_250 179
+atg 250 0
+ap 251 name_251 30
+atg 251 0
+ap 252 name_252 37
+atg 252 0
+ap 253 name_253 51
+atg 253 0
+ap 254 name_254 96
+atg 254 0
+ap 255 name_255 161
+atg 255 0
+ap 256 name_256 80
+atg 256 0
+ap 257 name_257 40
+atg 257 0
+ap 258 name_258 135
+atg 258 0
+ap 259 name_259 45
+atg 259 0
+ap 260 name_260 139
+atg 260 0
+ap 261 name_261 9
+atg 261 0
+ap 262 name_262 128
+atg 262 0
+ap 263 name_263 117
+atg 263 0
+ap 264 name_264 185
+atg 264 0
+ap 265 name_265 125
+atg 265 0
+ap 266 name_266 68
+atg 266 0
+ap 267 name_267 166
+atg 267 0
+ap 268 name_268 137
+atg 268 0
+ap 269 name_269 93
+atg 269 0
+ap 270 name_270 104
+atg 270 0
+ap 271 name_271 142
+atg 271 0
+ap 272 name_272 3
+atg 272 0
+ap 273 name_273 16
+atg 273 0
+ap 274 name_274 59
+atg 274 0
+ap 275 name_275 144
+atg 275 0
+ap 276 name_276 88
+atg 276 0
+ap 277 name_277 72
+atg 277 0
+ap 278 name_278 95
+atg 278 0
+ap 279 name_279 56
+atg 279 0
+ap 280 name_280 68
+atg 280 0
+ap 281 name_281 83
+atg 281 0
+ap 282 name_282 24
+atg 282 0
+ap 283 name_283 151
+atg 283 0
+ap 284 name_284 1
+atg 284 0
+ap 285 name_285 30
+atg 285 0
+ap 286 name_286 117
+atg 286 0
+ap 287 name_287 74
+atg 287 0
+ap 288 name_288 65
+atg 288 0
+ap 289 name_289 129
+atg 289 0
+ap 290 name_290 68
+atg 290 0
+ap 291 name_291 35
+atg 291 0
+ap 292 name_292 195
+atg 292 0
+ap 293 name_293 123
+atg 293 0
+ap 294 name_294 28
+atg 294 0
+ap 295 name_295 1
+atg 295 0
+ap 296 name_296 119
+atg 296 0
+ap 297 name_297 76
+atg 297 0
+ap 298 name_298 147
+atg 298 0
+ap 299 name_299 194
+atg 299 0
+ap 300 name_300 191
+atg 300 0
+ap 301 name_301 21
+atg 301 0
+ap 302 name_302 40
+atg 302 0
+ap 303 name_303 18
+atg 303 0
+ap 304 name_304 163
+atg 304 0
+ap 305 name_305 176
+atg 305 0
+ap 306 name_306 185
+atg 306 0
+ap 307 name_307 130
+atg 307 0
+ap 308 name_308 47
+atg 308 0
+ap 309 name_309 7
+atg 309 0
+ap 310 name_310 159
+atg 310 0
+ap 311 name_311 48
+atg 311 0
+ap 312 name_312 146
+atg 312 0
+ap 313 name_313 27
+atg 313 0
+ap 314 name_314 104
+atg 314 0
+ap 315 name_315 124
+atg 315 0
+ap 316 name_316 199
+atg 316 0
+ap 317 name_317 183
+atg 317 0
+ap 318 name_318 35
+atg 318 0
+ap 319 name_319 56
+atg 319 0
+ap 320 name_320 166
+atg 320 0
+ap 321 name_321 101
+atg 321 0
+ap 322 name_322 58
+atg 322 0
+ap 323 name_323 127
+atg 323 0
+ap 324 name_324 119
+atg 324 0
+ap 325 name_325 119
+atg 325 0
+ap 326 name_326 198
+atg 326 0
+ap 327 name_327 197
+atg 327 0
+ap 328 name_328 36
+atg 328 0
+ap 329 name_329 158
+atg 329 0
+ap 330 name_330 43
+atg 330 0
+ap 331 name_331 170
+atg 331 0
+ap 332 name_332 138
+atg 332 0
+ap 333 name_333 199
+atg 333 0
+ap 334 name_334 2
+atg 334 0
+ap 335 name_335 50
+atg 335 0
+ap 336 name_336 168
+atg 336 0
+ap 337 name_337 118
+atg 337 0
+ap 338 name_338 56
+atg 338 0
+ap 339 name_339 20
+atg 339 0
+ap 340 name_340 37
+atg 340 0
+ap 341 name_341 19
+atg 341 0
+ap 342 name_342 46
+atg 342 0
+ap 343 name_343 122
+atg 343 0
+ap 344 name_344 63
+atg 344 0
+ap 345 name_345 197
+atg 345 0
+ap 346 name_346 63
+atg 346 0
+ap 347 name_347 131
+atg 347 0
+ap 348 name_348 15
+atg 348 0
+ap 349 name_349 86
+atg 349 0
+ap 350 name_350 59
+atg 350 0
+ap 351 name_351 28
+atg 351 0
+ap 352 name_352 175
+atg 352 0
+ap 353 name_353 134
+atg 353 0
+ap 354 name_354 114
+atg 354 0
+ap 355 name_355 59
+atg 355 0
+ap 356 name_356 45
+atg 356 0
+ap 357 name_357 169
+atg 357 0
+ap 358 name_358 58
+atg 358 0
+ap 359 name_359 149
+atg 359 0
+ap 360 name_360 135
+atg 360 0
+ap 361 name_361 111
+atg 361 0
+ap 362 name_362 67
+atg 362 0
+ap 363 name_363 148
+atg 363 0
+ap 364 name_364 191
+atg 364 0
+ap 365 name_365 153
+atg 365 0
+ap 366 name_366 0
+atg 366 0
+ap 367 name_367 158
+atg 367 0
+ap 368 name_368 175
+atg 368 0
+ap 369 name_369 103
+atg 369 0
+ap 370 name_370 29
+atg 370 0
+ap 371 name_371 118
+atg 371 0
+ap 372 name_372 102
+atg 372 0
+ap 373 name_373 124
+atg 373 0
+ap 374 name_374 95
+atg 374 0
+ap 375 name_375 35
+atg 375 0
+ap 376 name_376 90
+atg 376 0
+ap 377 name_377 128
+atg 377 0
+ap 378 name_378 56
+atg 378 0
+ap 379 name_379 82
+atg 379 0
+ap 380 name_380 82
+atg 380 0
+ap 381 name_381 189
+atg 381 0
+ap 382 name_382 194
+atg 382 0
+ap 383 name_383 128
+atg 383 0
+ap 384 name_384 19
+atg 384 0
+ap 385 name_385 189
+atg 385 0
+ap 386 name_386 133
+atg 386 0
+ap 387 name_387 84
+atg 387 0
+ap 388 name_388 138
+atg 388 0
+ap 389 name_389 111
+atg 389 0
+ap 390 name_390 39
+atg 390 0
+ap 391 name_391 131
+atg 391 0
+ap 392 name_392 157
+atg 392 0
+ap 393 name_393 58
+atg 393 0
+ap 394 name_394 2
+atg 394 0
+ap 395 name_395 91
+atg 395 0
+ap 396 name_396 7
+atg 396 0
+ap 397 name_397 52
+atg 397 0
+ap 398 name_398 35
+atg 398 0
+ap 399 name_399 98
+atg 399 0
+ap 400 name_400 87
+atg 400 0
+ap 401 name_401 165
+atg 401 0
+ap 402 name_402 147
+atg 402 0
+ap 403 name_403 35
+atg 403 0
+ap 404 name_404 142
+atg 404 0
+ap 405 name_405 192
+atg 405 0
+ap 406 name_406 28
+atg 406 0
+ap 407 name_407 170
+atg 407 0
+ap 408 name_408 44
+atg 408 0
+ap 409 name_409 124
+atg 409 0
+ap 410 name_410 126
+atg 410 0
+ap 411 name_411 200
+atg 411 0
+ap 412 name_412 86
+atg 412 0
+ap 413 name_413 11
+atg 413 0
+ap 414 name_414 39
+atg 414 0
+ap 415 name_415 114
+atg 415 0
+ap 416 name_416 177
+atg 416 0
+ap 417 name_417 179
+atg 417 0
+ap 418 name_418 99
+atg 418 0
+ap 419 name_419 194
+atg 419 0
+ap 420 name_420 17
+atg 420 0
+ap 421 name_421 52
+atg 421 0
+ap 422 name_422 165
+atg 422 0
+ap 423 name_423 27
+atg 423 0
+ap 424 name_424 196
+atg 424 0
+ap 425 name_425 87
+atg 425 0
+ap 426 name_426 148
+atg 426 0
+ap 427 name_427 76
+atg 427 0
+ap 428 name_428 89
+atg 428 0
+ap 429 name_429 157
+atg 429 0
+ap 430 name_430 100
+atg 430 0
+ap 431 name_431 40
+atg 431 0
+ap 432 name_432 159
+atg 432 0
+ap 433 name_433 114
+atg 433 0
+ap 434 name_434 147
+atg 434 0
+ap 435 name_435 119
+atg 435 0
+ap 436 name_436 86
+atg 436 0
+ap 437 name_437 170
+atg 437 0
+ap 438 name_438 167
+atg 438 0
+ap 439 name_439 119
+atg 439 0
+ap 440 name_440 83
+atg 440 0
+ap 441 name_441 57
+atg 441 0
+ap 442 name_442 2
+atg 442 0
+ap 443 name_443 21
+atg 443 0
+ap 444 name_444 139
+atg 444 0
+ap 445 name_445 139
+atg 445 0
+ap 446 name_446 177
+atg 446 0
+ap 447 name_447 162
+atg 447 0
+ap 448 name_448 74
+atg 448 0
+ap 449 name_449 189
+atg 449 0
+ap 450 name_450 95
+atg 450 0
+ap 451 name_451 75
+atg 451 0
+ap 452 name_452 134
+atg 452 0
+ap 453 name_453 177
+atg 453 0
+ap 454 name_454 51
+atg 454 0
+ap 455 name_455 144
+atg 455 0
+ap 456 name_456 75
+atg 456 0
+ap 457 name_457 50
+atg 457 0
+ap 458 name_458 80
+atg 458 0
+ap 459 name_459 120
+atg 459 0
+ap 460 name_460 170
+atg 460 0
+ap 461 name_461 186
+atg 461 0
+ap 462 name_462 180
+atg 462 0
+ap 463 name_463 158
+atg 463 0
+ap 464 name_464 184
+atg 464 0
+ap 465 name_465 118
+atg 465 0
+ap 466 name_466 55
+atg 466 0
+ap 467 name_467 20
+atg 467 0
+ap 468 name_468 111
+atg 468 0
+ap 469 name_469 65
+atg 469 0
+ap 470 name_470 12
+atg 470 0
+ap 471 name_471 98
+atg 471 0
+ap 472 name_472 110
+atg 472 0
+ap 473 name_473 166
+atg 473 0
+ap 474 name_474 122
+atg 474 0
+ap 475 name_475 20
+atg 475 0
+ap 476 name_476 8
+atg 476 0
+ap 477 name_477 28
+atg 477 0
+ap 478 name_478 1
+atg 478 0
+ap 479 name_479 68
+atg 479 0
+ap 480 name_480 69
+atg 480 0
+ap 481 name_481 82
+atg 481 0
+ap 482 name_482 108
+atg 482 0
+ap 483 name_483 149
+atg 483 0
+ap 484 name_484 195
+atg 484 0
+ap 485 name_485 131
+atg 485 0
+ap 486 name_486 101
+atg 486 0
+ap 487 name_487 13
+atg 487 0
+ap 488 name_488 176
+atg 488 0
+ap 489 name_489 171
+atg 489 0
+ap 490 name_490 78
+atg 490 0
+ap 491 name_491 130
+atg 491 0
+ap 492 name_492 40
+atg 492 0
+ap 493 name_493 126
+atg 493 0
+ap 494 name_494 55
+atg 494 0
+ap 495 name_495 67
+atg 495 0
+ap 496 name_496 92
+atg 496 0
+ap 497 name_497 123
+atg 497 0
+ap 498 name_498 1
+atg 498 0
+ap 499 name_499 111
+atg 499 0
+ap 500 name_500 49
+atg 500 0
+ap 501 name_501 163
+atg 501 0
+ap 502 name_502 79
+atg 502 0
+ap 503 name_503 149
+atg 503 0
+ap 504 name_504 179
+atg 504 0
+ap 505 name_505 62
+atg 505 0
+ap 506 name_506 2
+atg 506 0
+ap 507 name_507 166
+atg 507 0
+ap 508 name_508 104
+atg 508 0
+ap 509 name_509 198
+atg 509 0
+ap 510 name_510 92
+atg 510 0
+ap 511 name_511 46
+atg 511 0
+ap 512 name_512 72
+atg 512 0
+ap 513 name_513 86
+atg 513 0
+ap 514 name_514 4
+atg 514 0
+ap 515 name_515 153
+atg 515 0
+ap 516 name_516 136
+atg 516 0
+ap 517 name_517 25
+atg 517 0
+ap 518 name_518 122
+atg 518 0
+ap 519 name_519 173
+atg 519 0
+ap 520 name_520 16
+atg 520 0
+ap 521 name_521 46
+atg 521 0
+ap 522 name_522 109
+atg 522 0
+ap 523 name_523 151
+atg 523 0
+ap 524 name_524 138
+atg 524 0
+ap 525 name_525 35
+atg 525 0
+ap 526 name_526 108
+atg 526 0
+ap 527 name_527 188
+atg 527 0
+ap 528 name_528 164
+atg 528 0
+ap 529 name_529 33
+atg 529 0
+ap 530 name_530 199
+atg 530 0
+ap 531 name_531 98
+atg 531 0
+ap 532 name_532 158
+atg 532 0
+ap 533 name_533 17
+atg 533 0
+ap 534 name_534 64
+atg 534 0
+ap 535 name_535 119
+atg 535 0
+ap 536 name_536 69
+atg 536 0
+ap 537 name_537 120
+atg 537 0
+ap 538 name_538 61
+atg 538 0
+ap 539 name_539 162
+atg 539 0
+ap 540 name_540 76
+atg 540 0
+ap 541 name_541 49
+atg 541 0
+ap 542 name_542 13
+atg 542 0
+ap 543 name_543 127
+atg 543 0
+ap 544 name_544 133
+atg 544 0
+ap 545 name_545 195
+atg 545 0
+ap 546 name_546 146
+atg 546 0
+ap 547 name_547 137
+atg 547 0
+ap 548 name_548 151
+atg 548 0
+ap 549 name_549 55
+atg 549 0
+ap 550 name_550 103
+atg 550 0
+ap 551 name_551 179
+atg 551 0
+ap 552 name_552 55
+atg 552 0
+ap 553 name_553 41
+atg 553 0
+ap 554 name_554 39
+atg 554 0
+ap 555 name_555 140
+atg 555 0
+ap 556 name_556 126
+atg 556 0
+ap 557 name_557 46
+atg 557 0
+ap 558 name_558 107
+atg 558 0
+ap 559 name_559 157
+atg 559 0
+ap 560 name_560 27
+atg 560 0
+ap 561 name_561 136
+atg 561 0
+ap 562 name_562 162
+atg 562 0
+ap 563 name_563 186
+atg 563 0
+ap 564 name_564 150
+atg 564 0
+ap 565 name_565 44
+atg 565 0
+ap 566 name_566 56
+atg 566 0
+ap 567 name_567 79
+atg 567 0
+ap 568 name_568 121
+atg 568 0
+ap 569 name_569 92
+atg 569 0
+ap 570 name_570 13
+atg 570 0
+ap 571 name_571 25
+atg 571 0
+ap 572 name_572 29
+atg 572 0
+ap 573 name_573 33
+atg 573 0
+ap 574 name_574 137
+atg 574 0
+ap 575 name_575 169
+atg 575 0
+ap 576 name_576 47
+atg 576 0
+ap 577 name_577 163
+atg 577 0
+ap 578 name_578 197
+atg 578 0
+ap 579 name_579 73
+atg 579 0
+ap 580 name_580 73
+atg 580 0
+ap 581 name_581 61
+atg 581 0
+ap 582 name_582 43
+atg 582 0
+ap 583 name_583 25
+atg 583 0
+ap 584 name_584 99
+atg 584 0
+ap 585 name_585 77
+atg 585 0
+ap 586 name_586 29
+atg 586 0
+ap 587 name_587 175
+atg 587 0
+ap 588 name_588 133
+atg 588 0
+ap 589 name_589 155
+atg 589 0
+ap 590 name_590 5
+atg 590 0
+ap 591 name_591 44
+atg 591 0
+ap 592 name_592 42
+atg 592 0
+ap 593 name_593 73
+atg 593 0
+ap 594 name_594 102
+atg 594 0
+ap 595 name_595 107
+atg 595 0
+ap 596 name_596 186
+atg 596 0
+ap 597 name_597 127
+atg 597 0
+ap 598 name_598 151
+atg 598 0
+ap 599 name_599 118
+atg 599 0
+ap 600 name_600 11
+atg 600 0
+ap 601 name_601 83
+atg 601 0
+ap 602 name_602 62
+atg 602 0
+ap 603 name_603 96
+atg 603 0
+ap 604 name_604 95
+atg 604 0
+ap 605 name_605 88
+atg 605 0
+ap 606 name_606 22
+atg 606 0
+ap 607 name_607 31
+atg 607 0
+ap 608 name_608 162
+atg 608 0
+ap 609 name_609 137
+atg 609 0
+ap 610 name_610 113
+atg 610 0
+ap 611 name_611 55
+atg 611 0
+ap 612 name_612 179
+atg 612 0
+ap 613 name_613 172
+atg 613 0
+ap 614 name_614 120
+atg 614 0
+ap 615 name_615 103
+atg 615 0
+ap 616 name_616 106
+atg 616 0
+ap 617 name_617 58
+atg 617 0
+ap 618 name_618 122
+atg 618 0
+ap 619 name_619 54
+atg 619 0
+ap 620 name_620 116
+atg 620 0
+ap 621 name_621 14
+atg 621 0
+ap 622 name_622 176
+atg 622 0
+ap 623 name_623 124
+atg 623 0
+ap 624 name_624 130
+atg 624 0
+ap 625 name_625 69
+atg 625 0
+ap 626 name_626 113
+atg 626 0
+ap 627 name_627 115
+atg 627 0
+ap 628 name_628 53
+atg 628 0
+ap 629 name_629 26
+atg 629 0
+ap 630 name_630 15
+atg 630 0
+ap 631 name_631 154
+atg 631 0
+ap 632 name_632 163
+atg 632 0
+ap 633 name_633 190
+atg 633 0
+ap 634 name_634 101
+atg 634 0
+ap 635 name_635 28
+atg 635 0
+ap 636 name_636 56
+atg 636 0
+ap 637 name_637 6
+atg 637 0
+ap 638 name_638 22
+atg 638 0
+ap 639 name_639 11
+atg 639 0
+ap 640 name_640 149
+atg 640 0
+ap 641 name_641 5
+atg 641 0
+ap 642 name_642 130
+atg 642 0
+ap 643 name_643 90
+atg 643 0
+ap 644 name_644 182
+atg 644 0
+ap 645 name_645 180
+atg 645 0
+ap 646 name_646 110
+atg 646 0
+ap 647 name_647 38
+atg 647 0
+ap 648 name_648 164
+atg 648 0
+ap 649 name_649 59
+atg 649 0
+ap 650 name_650 70
+atg 650 0
+ap 651 name_651 92
+atg 651 0
+ap 652 name_652 82
+atg 652 0
+ap 653 name_653 172
+atg 653 0
+ap 654 name_654 154
+atg 654 0
+ap 655 name_655 93
+atg 655 0
+ap 656 name_656 138
+atg 656 0
+ap 657 name_657 95
+atg 657 0
+ap 658 name_658 192
+atg 658 0
+ap 659 name_659 176
+atg 659 0
+ap 660 name_660 197
+atg 660 0
+ap 661 name_661 172
+atg 661 0
+ap 662 name_662 134
+atg 662 0
+ap 663 name_663 106
+atg 663 0
+ap 664 name_664 143
+atg 664 0
+ap 665 name_665 52
+atg 665 0
+ap 666 name_666 126
+atg 666 0
+ap 667 name_667 193
+atg 667 0
+ap 668 name_668 145
+atg 668 0
+ap 669 name_669 58
+atg 669 0
+ap 670 name_670 82
+atg 670 0
+ap 671 name_671 16
+atg 671 0
+ap 672 name_672 40
+atg 672 0
+ap 673 name_673 50
+atg 673 0
+ap 674 name_674 1
+atg 674 0
+ap 675 name_675 112
+atg 675 0
+ap 676 name_676 53
+atg 676 0
+ap 677 name_677 145
+atg 677 0
+ap 678 name_678 187
+atg 678 0
+ap 679 name_679 59
+atg 679 0
+ap 680 name_680 104
+atg 680 0
+ap 681 name_681 107
+atg 681 0
+ap 682 name_682 105
+atg 682 0
+ap 683 name_683 123
+atg 683 0
+ap 684 name_684 76
+atg 684 0
+ap 685 name_685 20
+atg 685 0
+ap 686 name_686 93
+atg 686 0
+ap 687 name_687 75
+atg 687 0
+ap 688 name_688 66
+atg 688 0
+ap 689 name_689 120
+atg 689 0
+ap 690 name_690 19
+atg 690 0
+ap 691 name_691 180
+atg 691 0
+ap 692 name_692 104
+atg 692 0
+ap 693 name_693 49
+atg 693 0
+ap 694 name_694 169
+atg 694 0
+ap 695 name_695 123
+atg 695 0
+ap 696 name_696 59
+atg 696 0
+ap 697 name_697 98
+atg 697 0
+ap 698 name_698 26
+atg 698 0
+ap 699 name_699 87
+atg 699 0
+ap 700 name_700 34
+atg 700 0
+ap 701 name_701 182
+atg 701 0
+ap 702 name_702 145
+atg 702 0
+ap 703 name_703 171
+atg 703 0
+ap 704 name_704 6
+atg 704 0
+ap 705 name_705 97
+atg 705 0
+ap 706 name_706 152
+atg 706 0
+ap 707 name_707 166
+atg 707 0
+ap 708 name_708 192
+atg 708 0
+ap 709 name_709 191
+atg 709 0
+ap 710 name_710 109
+atg 710 0
+ap 711 name_711 31
+atg 711 0
+ap 712 name_712 120
+atg 712 0
+ap 713 name_713 12
+atg 713 0
+ap 714 name_714 171
+atg 714 0
+ap 715 name_715 93
+atg 715 0
+ap 716 name_716 196
+atg 716 0
+ap 717 name_717 32
+atg 717 0
+ap 718 name_718 126
+atg 718 0
+ap 719 name_719 200
+atg 719 0
+ap 720 name_720 59
+atg 720 0
+ap 721 name_721 57
+atg 721 0
+ap 722 name_722 187
+atg 722 0
+ap 723 name_723 136
+atg 723 0
+ap 724 name_724 105
+atg 724 0
+ap 725 name_725 28
+atg 725 0
+ap 726 name_726 190
+atg 726 0
+ap 727 name_727 178
+atg 727 0
+ap 728 name_728 169
+atg 728 0
+ap 729 name_729 118
+atg 729 0
+ap 730 name_730 172
+atg 730 0
+ap 731 name_731 115
+atg 731 0
+ap 732 name_732 30
+atg 732 0
+ap 733 name_733 182
+atg 733 0
+ap 734 name_734 147
+atg 734 0
+ap 735 name_735 19
+atg 735 0
+ap 736 name_736 157
+atg 736 0
+ap 737 name_737 163
+atg 737 0
+ap 738 name_738 108
+atg 738 0
+ap 739 name_739 16
+atg 739 0
+ap 740 name_740 58
+atg 740 0
+ap 741 name_741 122
+atg 741 0
+ap 742 name_742 41
+atg 742 0
+ap 743 name_743 18
+atg 743 0
+ap 744 name_744 134
+atg 744 0
+ap 745 name_745 148
+atg 745 0
+ap 746 name_746 80
+atg 746 0
+ap 747 name_747 77
+atg 747 0
+ap 748 name_748 176
+atg 748 0
+ap 749 name_749 147
+atg 749 0
+ap 750 name_750 191
+atg 750 0
+ap 751 name_751 24
+atg 751 0
+ap 752 name_752 4
+atg 752 0
+ap 753 name_753 6
+atg 753 0
+ap 754 name_754 161
+atg 754 0
+ap 755 name_755 168
+atg 755 0
+ap 756 name_756 172
+atg 756 0
+ap 757 name_757 136
+atg 757 0
+ap 758 name_758 39
+atg 758 0
+ap 759 name_759 41
+atg 759 0
+ap 760 name_760 64
+atg 760 0
+ap 761 name_761 69
+atg 761 0
+ap 762 name_762 44
+atg 762 0
+ap 763 name_763 17
+atg 763 0
+ap 764 name_764 102
+atg 764 0
+ap 765 name_765 128
+atg 765 0
+ap 766 name_766 16
+atg 766 0
+ap 767 name_767 126
+atg 767 0
+ap 768 name_768 157
+atg 768 0
+ap 769 name_769 21
+atg 769 0
+ap 770 name_770 99
+atg 770 0
+ap 771 name_771 153
+atg 771 0
+ap 772 name_772 142
+atg 772 0
+ap 773 name_773 199
+atg 773 0
+ap 774 name_774 136
+atg 774 0
+ap 775 name_775 124
+atg 775 0
+ap 776 name_776 7
+atg 776 0
+ap 777 name_777 64
+atg 777 0
+ap 778 name_778 164
+atg 778 0
+ap 779 name_779 68
+atg 779 0
+ap 780 name_780 197
+atg 780 0
+ap 781 name_781 176
+atg 781 0
+ap 782 name_782 7
+atg 782 0
+ap 783 name_783 123
+atg 783 0
+ap 784 name_784 124
+atg 784 0
+ap 785 name_785 24
+atg 785 0
+ap 786 name_786 110
+atg 786 0
+ap 787 name_787 117
+atg 787 0
+ap 788 name_788 118
+atg 788 0
+ap 789 name_789 71
+atg 789 0
+ap 790 name_790 174
+atg 790 0
+ap 791 name_791 130
+atg 791 0
+ap 792 name_792 83
+atg 792 0
+ap 793 name_793 83
+atg 793 0
+ap 794 name_794 4
+atg 794 0
+ap 795 name_795 35
+atg 795 0
+ap 796 name_796 45
+atg 796 0
+ap 797 name_797 169
+atg 797 0
+ap 798 name_798 71
+atg 798 0
+ap 799 name_799 76
+atg 799 0
+ap 800 name_800 6
+atg 800 0
+ap 801 name_801 10
+atg 801 0
+ap 802 name_802 37
+atg 802 0
+ap 803 name_803 173
+atg 803 0
+ap 804 name_804 177
+atg 804 0
+ap 805 name_805 153
+atg 805 0
+ap 806 name_806 135
+atg 806 0
+ap 807 name_807 62
+atg 807 0
+ap 808 name_808 159
+atg 808 0
+ap 809 name_809 60
+atg 809 0
+ap 810 name_810 32
+atg 810 0
+ap 811 name_811 171
+atg 811 0
+ap 812 name_812 87
+atg 812 0
+ap 813 name_813 190
+atg 813 0
+ap 814 name_814 98
+atg 814 0
+ap 815 name_815 86
+atg 815 0
+ap 816 name_816 196
+atg 816 0
+ap 817 name_817 137
+atg 817 0
+ap 818 name_818 100
+atg 818 0
+ap 819 name_819 151
+atg 819 0
+ap 820 name_820 4
+atg 820 0
+ap 821 name_821 12
+atg 821 0
+ap 822 name_822 36
+atg 822 0
+ap 823 name_823 58
+atg 823 0
+ap 824 name_824 121
+atg 824 0
+ap 825 name_825 53
+atg 825 0
+ap 826 name_826 118
+atg 826 0
+ap 827 name_827 143
+atg 827 0
+ap 828 name_828 108
+atg 828 0
+ap 829 name_829 109
+atg 829 0
+ap 830 name_830 34
+atg 830 0
+ap 831 name_831 66
+atg 831 0
+ap 832 name_832 45
+atg 832 0
+ap 833 name_833 57
+atg 833 0
+ap 834 name_834 135
+atg 834 0
+ap 835 name_835 2
+atg 835 0
+ap 836 name_836 154
+atg 836 0
+ap 837 name_837 193
+atg 837 0
+ap 838 name_838 182
+atg 838 0
+ap 839 name_839 152
+atg 839 0
+ap 840 name_840 145
+atg 840 0
+ap 841 name_841 30
+atg 841 0
+ap 842 name_842 190
+atg 842 0
+ap 843 name_843 11
+atg 843 0
+ap 844 name_844 110
+atg 844 0
+ap 845 name_845 139
+atg 845 0
+ap 846 name_846 174
+atg 846 0
+ap 847 name_847 125
+atg 847 0
+ap 848 name_848 142
+atg 848 0
+ap 849 name_849 146
+atg 849 0
+ap 850 name_850 90
+atg 850 0
+ap 851 name_851 152
+atg 851 0
+ap 852 name_852 141
+atg 852 0
+ap 853 name_853 188
+atg 853 0
+ap 854 name_854 63
+atg 854 0
+ap 855 name_855 67
+atg 855 0
+ap 856 name_856 193
+atg 856 0
+ap 857 name_857 44
+atg 857 0
+ap 858 name_858 133
+atg 858 0
+ap 859 name_859 19
+atg 859 0
+ap 860 name_860 181
+atg 860 0
+ap 861 name_861 34
+atg 861 0
+ap 862 name_862 11
+atg 862 0
+ap 863 name_863 122
+atg 863 0
+ap 864 name_864 174
+atg 864 0
+ap 865 name_865 37
+atg 865 0
+ap 866 name_866 88
+atg 866 0
+ap 867 name_867 84
+atg 867 0
+ap 868 name_868 94
+atg 868 0
+ap 869 name_869 196
+atg 869 0
+ap 870 name_870 6
+atg 870 0
+ap 871 name_871 156
+atg 871 0
+ap 872 name_872 66
+atg 872 0
+ap 873 name_873 13
+atg 873 0
+ap 874 name_874 42
+atg 874 0
+ap 875 name_875 143
+atg 875 0
+ap 876 name_876 179
+atg 876 0
+ap 877 name_877 39
+atg 877 0
+ap 878 name_878 144
+atg 878 0
+ap 879 name_879 69
+atg 879 0
+ap 880 name_880 14
+atg 880 0
+ap 881 name_881 17
+atg 881 0
+ap 882 name_882 118
+atg 882 0
+ap 883 name_883 116
+atg 883 0
+ap 884 name_884 63
+atg 884 0
+ap 885 name_885 111
+atg 885 0
+ap 886 name_886 79
+atg 886 0
+ap 887 name_887 12
+atg 887 0
+ap 888 name_888 85
+atg 888 0
+ap 889 name_889 86
+atg 889 0
+ap 890 name_890 106
+atg 890 0
+ap 891 name_891 75
+atg 891 0
+ap 892 name_892 200
+atg 892 0
+ap 893 name_893 90
+atg 893 0
+ap 894 name_894 110
+atg 894 0
+ap 895 name_895 82
+atg 895 0
+ap 896 name_896 11
+atg 896 0
+ap 897 name_897 197
+atg 897 0
+ap 898 name_898 98
+atg 898 0
+ap 899 name_899 175
+atg 899 0
+ap 900 name_900 67
+atg 900 0
+ap 901 name_901 93
+atg 901 0
+ap 902 name_902 141
+atg 902 0
+ap 903 name_903 36
+atg 903 0
+ap 904 name_904 163
+atg 904 0
+ap 905 name_905 31
+atg 905 0
+ap 906 name_906 82
+atg 906 0
+ap 907 name_907 19
+atg 907 0
+ap 908 name_908 51
+atg 908 0
+ap 909 name_909 170
+atg 909 0
+ap 910 name_910 103
+atg 910 0
+ap 911 name_911 165
+atg 911 0
+ap 912 name_912 26
+atg 912 0
+ap 913 name_913 85
+atg 913 0
+ap 914 name_914 139
+atg 914 0
+ap 915 name_915 169
+atg 915 0
+ap 916 name_916 180
+atg 916 0
+ap 917 name_917 146
+atg 917 0
+ap 918 name_918 120
+atg 918 0
+ap 919 name_919 183
+atg 919 0
+ap 920 name_920 97
+atg 920 0
+ap 921 name_921 194
+atg 921 0
+ap 922 name_922 173
+atg 922 0
+ap 923 name_923 37
+atg 923 0
+ap 924 name_924 136
+atg 924 0
+ap 925 name_925 95
+atg 925 0
+ap 926 name_926 23
+atg 926 0
+ap 927 name_927 199
+atg 927 0
+ap 928 name_928 143
+atg 928 0
+ap 929 name_929 159
+atg 929 0
+ap 930 name_930 54
+atg 930 0
+ap 931 name_931 159
+atg 931 0
+ap 932 name_932 193
+atg 932 0
+ap 933 name_933 99
+atg 933 0
+ap 934 name_934 101
+atg 934 0
+ap 935 name_935 182
+atg 935 0
+ap 936 name_936 26
+atg 936 0
+ap 937 name_937 73
+atg 937 0
+ap 938 name_938 99
+atg 938 0
+ap 939 name_939 37
+atg 939 0
+ap 940 name_940 121
+atg 940 0
+ap 941 name_941 84
+atg 941 0
+ap 942 name_942 152
+atg 942 0
+ap 943 name_943 87
+atg 943 0
+ap 944 name_944 125
+atg 944 0
+ap 945 name_945 52
+atg 945 0
+ap 946 name_946 189
+atg 946 0
+ap 947 name_947 144
+atg 947 0
+ap 948 name_948 112
+atg 948 0
+ap 949 name_949 152
+atg 949 0
+ap 950 name_950 189
+atg 950 0
+ap 951 name_951 69
+atg 951 0
+ap 952 name_952 104
+atg 952 0
+ap 953 name_953 122
+atg 953 0
+ap 954 name_954 176
+atg 954 0
+ap 955 name_955 142
+atg 955 0
+ap 956 name_956 16
+atg 956 0
+ap 957 name_957 136
+atg 957 0
+ap 958 name_958 44
+atg 958 0
+ap 959 name_959 154
+atg 959 0
+ap 960 name_960 88
+atg 960 0
+ap 961 name_961 120
+atg 961 0
+ap 962 name_962 138
+atg 962 0
+ap 963 name_963 23
+atg 963 0
+ap 964 name_964 17
+atg 964 0
+ap 965 name_965 90
+atg 965 0
+ap 966 name_966 1
+atg 966 0
+ap 967 name_967 195
+atg 967 0
+ap 968 name_968 186
+atg 968 0
+ap 969 name_969 94
+atg 969 0
+ap 970 name_970 176
+atg 970 0
+ap 971 name_971 86
+atg 971 0
+ap 972 name_972 36
+atg 972 0
+ap 973 name_973 4
+atg 973 0
+ap 974 name_974 177
+atg 974 0
+ap 975 name_975 115
+atg 975 0
+ap 976 name_976 196
+atg 976 0
+ap 977 name_977 0
+atg 977 0
+ap 978 name_978 196
+atg 978 0
+ap 979 name_979 195
+atg 979 0
+ap 980 name_980 144
+atg 980 0
+ap 981 name_981 32
+atg 981 0
+ap 982 name_982 109
+atg 982 0
+ap 983 name_983 185
+atg 983 0
+ap 984 name_984 97
+atg 984 0
+ap 985 name_985 26
+atg 985 0
+ap 986 name_986 33
+atg 986 0
+ap 987 name_987 156
+atg 987 0
+ap 988 name_988 101
+atg 988 0
+ap 989 name_989 168
+atg 989 0
+ap 990 name_990 56
+atg 990 0
+ap 991 name_991 43
+atg 991 0
+ap 992 name_992 112
+atg 992 0
+ap 993 name_993 27
+atg 993 0
+ap 994 name_994 28
+atg 994 0
+ap 995 name_995 101
+atg 995 0
+ap 996 name_996 146
+atg 996 0
+ap 997 name_997 16
+atg 997 0
+ap 998 name_998 152
+atg 998 0
+ap 999 name_999 111
+atg 999 0
+ap 1000 name_1000 116
+atg 1000 0
+ap 1001 name_1001 20
+atg 1001 0
+ap 1002 name_1002 90
+atg 1002 0
+ap 1003 name_1003 193
+atg 1003 0
+ap 1004 name_1004 86
+atg 1004 0
+ap 1005 name_1005 18
+atg 1005 0
+ap 1006 name_1006 64
+atg 1006 0
+ap 1007 name_1007 150
+atg 1007 0
+ap 1008 name_1008 83
+atg 1008 0
+ap 1009 name_1009 164
+atg 1009 0
+ap 1010 name_1010 182
+atg 1010 0
+ap 1011 name_1011 7
+atg 1011 0
+ap 1012 name_1012 196
+atg 1012 0
+ap 1013 name_1013 168
+atg 1013 0
+ap 1014 name_1014 80
+atg 1014 0
+ap 1015 name_1015 68
+atg 1015 0
+ap 1016 name_1016 31
+atg 1016 0
+ap 1017 name_1017 7
+atg 1017 0
+ap 1018 name_1018 182
+atg 1018 0
+ap 1019 name_1019 159
+atg 1019 0
+ap 1020 name_1020 106
+atg 1020 0
+ap 1021 name_1021 15
+atg 1021 0
+ap 1022 name_1022 140
+atg 1022 0
+ap 1023 name_1023 176
+atg 1023 0
+ap 1024 name_1024 17
+atg 1024 0
+ap 1025 name_1025 8
+atg 1025 0
+ap 1026 name_1026 105
+atg 1026 0
+ap 1027 name_1027 9
+atg 1027 0
+ap 1028 name_1028 28
+atg 1028 0
+ap 1029 name_1029 93
+atg 1029 0
+ap 1030 name_1030 52
+atg 1030 0
+ap 1031 name_1031 160
+atg 1031 0
+ap 1032 name_1032 38
+atg 1032 0
+ap 1033 name_1033 141
+atg 1033 0
+ap 1034 name_1034 108
+atg 1034 0
+ap 1035 name_1035 99
+atg 1035 0
+ap 1036 name_1036 193
+atg 1036 0
+ap 1037 name_1037 83
+atg 1037 0
+ap 1038 name_1038 79
+atg 1038 0
+ap 1039 name_1039 124
+atg 1039 0
+ap 1040 name_1040 160
+atg 1040 0
+ap 1041 name_1041 152
+atg 1041 0
+ap 1042 name_1042 67
+atg 1042 0
+ap 1043 name_1043 175
+atg 1043 0
+ap 1044 name_1044 36
+atg 1044 0
+ap 1045 name_1045 17
+atg 1045 0
+ap 1046 name_1046 99
+atg 1046 0
+ap 1047 name_1047 70
+atg 1047 0
+ap 1048 name_1048 197
+atg 1048 0
+ap 1049 name_1049 146
+atg 1049 0
+ap 1050 name_1050 125
+atg 1050 0
+ap 1051 name_1051 147
+atg 1051 0
+ap 1052 name_1052 175
+atg 1052 0
+ap 1053 name_1053 165
+atg 1053 0
+ap 1054 name_1054 168
+atg 1054 0
+ap 1055 name_1055 84
+atg 1055 0
+ap 1056 name_1056 162
+atg 1056 0
+ap 1057 name_1057 161
+atg 1057 0
+ap 1058 name_1058 20
+atg 1058 0
+ap 1059 name_1059 115
+atg 1059 0
+ap 1060 name_1060 150
+atg 1060 0
+ap 1061 name_1061 0
+atg 1061 0
+ap 1062 name_1062 4
+atg 1062 0
+ap 1063 name_1063 14
+atg 1063 0
+ap 1064 name_1064 113
+atg 1064 0
+ap 1065 name_1065 117
+atg 1065 0
+ap 1066 name_1066 199
+atg 1066 0
+ap 1067 name_1067 63
+atg 1067 0
+ap 1068 name_1068 138
+atg 1068 0
+ap 1069 name_1069 23
+atg 1069 0
+ap 1070 name_1070 96
+atg 1070 0
+ap 1071 name_1071 177
+atg 1071 0
+ap 1072 name_1072 154
+atg 1072 0
+ap 1073 name_1073 150
+atg 1073 0
+ap 1074 name_1074 70
+atg 1074 0
+ap 1075 name_1075 199
+atg 1075 0
+ap 1076 name_1076 82
+atg 1076 0
+ap 1077 name_1077 90
+atg 1077 0
+ap 1078 name_1078 163
+atg 1078 0
+ap 1079 name_1079 159
+atg 1079 0
+ap 1080 name_1080 23
+atg 1080 0
+ap 1081 name_1081 82
+atg 1081 0
+ap 1082 name_1082 82
+atg 1082 0
+ap 1083 name_1083 39
+atg 1083 0
+ap 1084 name_1084 114
+atg 1084 0
+ap 1085 name_1085 188
+atg 1085 0
+ap 1086 name_1086 3
+atg 1086 0
+ap 1087 name_1087 127
+atg 1087 0
+ap 1088 name_1088 38
+atg 1088 0
+ap 1089 name_1089 152
+atg 1089 0
+ap 1090 name_1090 145
+atg 1090 0
+ap 1091 name_1091 88
+atg 1091 0
+ap 1092 name_1092 37
+atg 1092 0
+ap 1093 name_1093 96
+atg 1093 0
+ap 1094 name_1094 90
+atg 1094 0
+ap 1095 name_1095 155
+atg 1095 0
+ap 1096 name_1096 49
+atg 1096 0
+ap 1097 name_1097 185
+atg 1097 0
+ap 1098 name_1098 9
+atg 1098 0
+ap 1099 name_1099 56
+atg 1099 0
+ap 1100 name_1100 137
+atg 1100 0
+ap 1101 name_1101 140
+atg 1101 0
+ap 1102 name_1102 181
+atg 1102 0
+ap 1103 name_1103 63
+atg 1103 0
+ap 1104 name_1104 136
+atg 1104 0
+ap 1105 name_1105 98
+atg 1105 0
+ap 1106 name_1106 89
+atg 1106 0
+ap 1107 name_1107 125
+atg 1107 0
+ap 1108 name_1108 176
+atg 1108 0
+ap 1109 name_1109 182
+atg 1109 0
+ap 1110 name_1110 59
+atg 1110 0
+ap 1111 name_1111 135
+atg 1111 0
+ap 1112 name_1112 93
+atg 1112 0
+ap 1113 name_1113 43
+atg 1113 0
+ap 1114 name_1114 156
+atg 1114 0
+ap 1115 name_1115 73
+atg 1115 0
+ap 1116 name_1116 154
+atg 1116 0
+ap 1117 name_1117 105
+atg 1117 0
+ap 1118 name_1118 110
+atg 1118 0
+ap 1119 name_1119 70
+atg 1119 0
+ap 1120 name_1120 86
+atg 1120 0
+ap 1121 name_1121 4
+atg 1121 0
+ap 1122 name_1122 124
+atg 1122 0
+ap 1123 name_1123 113
+atg 1123 0
+ap 1124 name_1124 76
+atg 1124 0
+ap 1125 name_1125 5
+atg 1125 0
+ap 1126 name_1126 199
+atg 1126 0
+ap 1127 name_1127 74
+atg 1127 0
+ap 1128 name_1128 93
+atg 1128 0
+ap 1129 name_1129 141
+atg 1129 0
+ap 1130 name_1130 106
+atg 1130 0
+ap 1131 name_1131 184
+atg 1131 0
+ap 1132 name_1132 52
+atg 1132 0
+ap 1133 name_1133 198
+atg 1133 0
+ap 1134 name_1134 186
+atg 1134 0
+ap 1135 name_1135 172
+atg 1135 0
+ap 1136 name_1136 107
+atg 1136 0
+ap 1137 name_1137 122
+atg 1137 0
+ap 1138 name_1138 125
+atg 1138 0
+ap 1139 name_1139 94
+atg 1139 0
+ap 1140 name_1140 23
+atg 1140 0
+ap 1141 name_1141 141
+atg 1141 0
+ap 1142 name_1142 163
+atg 1142 0
+ap 1143 name_1143 195
+atg 1143 0
+ap 1144 name_1144 122
+atg 1144 0
+ap 1145 name_1145 3
+atg 1145 0
+ap 1146 name_1146 145
+atg 1146 0
+ap 1147 name_1147 5
+atg 1147 0
+ap 1148 name_1148 182
+atg 1148 0
+ap 1149 name_1149 22
+atg 1149 0
+ap 1150 name_1150 141
+atg 1150 0
+ap 1151 name_1151 103
+atg 1151 0
+ap 1152 name_1152 84
+atg 1152 0
+ap 1153 name_1153 127
+atg 1153 0
+ap 1154 name_1154 106
+atg 1154 0
+ap 1155 name_1155 109
+atg 1155 0
+ap 1156 name_1156 76
+atg 1156 0
+ap 1157 name_1157 14
+atg 1157 0
+ap 1158 name_1158 9
+atg 1158 0
+ap 1159 name_1159 101
+atg 1159 0
+ap 1160 name_1160 39
+atg 1160 0
+ap 1161 name_1161 155
+atg 1161 0
+ap 1162 name_1162 124
+atg 1162 0
+ap 1163 name_1163 49
+atg 1163 0
+ap 1164 name_1164 191
+atg 1164 0
+ap 1165 name_1165 25
+atg 1165 0
+ap 1166 name_1166 160
+atg 1166 0
+ap 1167 name_1167 93
+atg 1167 0
+ap 1168 name_1168 32
+atg 1168 0
+ap 1169 name_1169 102
+atg 1169 0
+ap 1170 name_1170 72
+atg 1170 0
+ap 1171 name_1171 180
+atg 1171 0
+ap 1172 name_1172 159
+atg 1172 0
+ap 1173 name_1173 99
+atg 1173 0
+ap 1174 name_1174 57
+atg 1174 0
+ap 1175 name_1175 180
+atg 1175 0
+ap 1176 name_1176 184
+atg 1176 0
+ap 1177 name_1177 116
+atg 1177 0
+ap 1178 name_1178 138
+atg 1178 0
+ap 1179 name_1179 104
+atg 1179 0
+ap 1180 name_1180 125
+atg 1180 0
+ap 1181 name_1181 102
+atg 1181 0
+ap 1182 name_1182 142
+atg 1182 0
+ap 1183 name_1183 30
+atg 1183 0
+ap 1184 name_1184 170
+atg 1184 0
+ap 1185 name_1185 92
+atg 1185 0
+ap 1186 name_1186 133
+atg 1186 0
+ap 1187 name_1187 96
+atg 1187 0
+ap 1188 name_1188 111
+atg 1188 0
+ap 1189 name_1189 85
+atg 1189 0
+ap 1190 name_1190 184
+atg 1190 0
+ap 1191 name_1191 163
+atg 1191 0
+ap 1192 name_1192 32
+atg 1192 0
+ap 1193 name_1193 165
+atg 1193 0
+ap 1194 name_1194 1
+atg 1194 0
+ap 1195 name_1195 198
+atg 1195 0
+ap 1196 name_1196 100
+atg 1196 0
+ap 1197 name_1197 130
+atg 1197 0
+ap 1198 name_1198 156
+atg 1198 0
+ap 1199 name_1199 48
+atg 1199 0
+ap 1200 name_1200 1
+atg 1200 0
+ap 1201 name_1201 90
+atg 1201 0
+ap 1202 name_1202 125
+atg 1202 0
+ap 1203 name_1203 175
+atg 1203 0
+ap 1204 name_1204 176
+atg 1204 0
+ap 1205 name_1205 50
+atg 1205 0
+ap 1206 name_1206 95
+atg 1206 0
+ap 1207 name_1207 126
+atg 1207 0
+ap 1208 name_1208 83
+atg 1208 0
+ap 1209 name_1209 105
+atg 1209 0
+ap 1210 name_1210 124
+atg 1210 0
+ap 1211 name_1211 175
+atg 1211 0
+ap 1212 name_1212 160
+atg 1212 0
+ap 1213 name_1213 180
+atg 1213 0
+ap 1214 name_1214 151
+atg 1214 0
+ap 1215 name_1215 84
+atg 1215 0
+ap 1216 name_1216 2
+atg 1216 0
+ap 1217 name_1217 28
+atg 1217 0
+ap 1218 name_1218 135
+atg 1218 0
+ap 1219 name_1219 31
+atg 1219 0
+ap 1220 name_1220 78
+atg 1220 0
+ap 1221 name_1221 44
+atg 1221 0
+ap 1222 name_1222 193
+atg 1222 0
+ap 1223 name_1223 22
+atg 1223 0
+ap 1224 name_1224 143
+atg 1224 0
+ap 1225 name_1225 70
+atg 1225 0
+ap 1226 name_1226 181
+atg 1226 0
+ap 1227 name_1227 73
+atg 1227 0
+ap 1228 name_1228 175
+atg 1228 0
+ap 1229 name_1229 75
+atg 1229 0
+ap 1230 name_1230 7
+atg 1230 0
+ap 1231 name_1231 73
+atg 1231 0
+ap 1232 name_1232 65
+atg 1232 0
+ap 1233 name_1233 115
+atg 1233 0
+ap 1234 name_1234 151
+atg 1234 0
+ap 1235 name_1235 176
+atg 1235 0
+ap 1236 name_1236 95
+atg 1236 0
+ap 1237 name_1237 56
+atg 1237 0
+ap 1238 name_1238 53
+atg 1238 0
+ap 1239 name_1239 104
+atg 1239 0
+ap 1240 name_1240 177
+atg 1240 0
+ap 1241 name_1241 64
+atg 1241 0
+ap 1242 name_1242 183
+atg 1242 0
+ap 1243 name_1243 113
+atg 1243 0
+ap 1244 name_1244 96
+atg 1244 0
+ap 1245 name_1245 168
+atg 1245 0
+ap 1246 name_1246 12
+atg 1246 0
+ap 1247 name_1247 107
+atg 1247 0
+ap 1248 name_1248 0
+atg 1248 0
+ap 1249 name_1249 50
+atg 1249 0
+ap 1250 name_1250 145
+atg 1250 0
+ap 1251 name_1251 176
+atg 1251 0
+ap 1252 name_1252 135
+atg 1252 0
+ap 1253 name_1253 187
+atg 1253 0
+ap 1254 name_1254 93
+atg 1254 0
+ap 1255 name_1255 53
+atg 1255 0
+ap 1256 name_1256 5
+atg 1256 0
+ap 1257 name_1257 155
+atg 1257 0
+ap 1258 name_1258 177
+atg 1258 0
+ap 1259 name_1259 53
+atg 1259 0
+ap 1260 name_1260 45
+atg 1260 0
+ap 1261 name_1261 109
+atg 1261 0
+ap 1262 name_1262 141
+atg 1262 0
+ap 1263 name_1263 21
+atg 1263 0
+ap 1264 name_1264 4
+atg 1264 0
+ap 1265 name_1265 164
+atg 1265 0
+ap 1266 name_1266 140
+atg 1266 0
+ap 1267 name_1267 18
+atg 1267 0
+ap 1268 name_1268 1
+atg 1268 0
+ap 1269 name_1269 46
+atg 1269 0
+ap 1270 name_1270 75
+atg 1270 0
+ap 1271 name_1271 198
+atg 1271 0
+ap 1272 name_1272 163
+atg 1272 0
+ap 1273 name_1273 43
+atg 1273 0
+ap 1274 name_1274 84
+atg 1274 0
+ap 1275 name_1275 163
+atg 1275 0
+ap 1276 name_1276 189
+atg 1276 0
+ap 1277 name_1277 33
+atg 1277 0
+ap 1278 name_1278 143
+atg 1278 0
+ap 1279 name_1279 165
+atg 1279 0
+ap 1280 name_1280 127
+atg 1280 0
+ap 1281 name_1281 29
+atg 1281 0
+ap 1282 name_1282 86
+atg 1282 0
+ap 1283 name_1283 111
+atg 1283 0
+ap 1284 name_1284 76
+atg 1284 0
+ap 1285 name_1285 87
+atg 1285 0
+ap 1286 name_1286 140
+atg 1286 0
+ap 1287 name_1287 51
+atg 1287 0
+ap 1288 name_1288 180
+atg 1288 0
+ap 1289 name_1289 53
+atg 1289 0
+ap 1290 name_1290 12
+atg 1290 0
+ap 1291 name_1291 17
+atg 1291 0
+ap 1292 name_1292 1
+atg 1292 0
+ap 1293 name_1293 129
+atg 1293 0
+ap 1294 name_1294 189
+atg 1294 0
+ap 1295 name_1295 170
+atg 1295 0
+ap 1296 name_1296 151
+atg 1296 0
+ap 1297 name_1297 3
+atg 1297 0
+ap 1298 name_1298 148
+atg 1298 0
+ap 1299 name_1299 42
+atg 1299 0
+ar 0 1 434
+ar 1 2 419
+ar 2 3 562
+ar 3 4 174
+ar 4 5 803
+ar 5 6 900
+ar 6 7 512
+ar 7 8 163
+ar 8 9 266
+ar 9 10 343
+ar 10 11 92
+ar 11 12 819
+ar 12 13 146
+ar 13 14 100
+ar 14 15 812
+ar 15 16 971
+ar 16 17 802
+ar 17 18 838
+ar 18 19 93
+ar 19 20 828
+ar 20 21 910
+ar 21 22 389
+ar 22 23 267
+ar 23 24 516
+ar 24 25 370
+ar 25 26 396
+ar 26 27 609
+ar 27 28 4
+ar 28 29 298
+ar 29 30 447
+ar 30 31 142
+ar 31 32 127
+ar 32 33 933
+ar 33 34 870
+ar 34 35 555
+ar 35 36 457
+ar 36 37 227
+ar 37 38 292
+ar 38 39 427
+ar 39 40 764
+ar 40 41 939
+ar 41 42 963
+ar 42 43 787
+ar 43 44 800
+ar 44 45 769
+ar 45 46 456
+ar 46 47 393
+ar 47 48 916
+ar 48 49 250
+ar 49 50 5
+ar 50 51 552
+ar 51 52 125
+ar 52 53 2
+ar 53 54 52
+ar 54 55 281
+ar 55 56 557
+ar 56 57 978
+ar 57 58 843
+ar 58 59 210
+ar 59 60 718
+ar 60 61 184
+ar 61 62 576
+ar 62 63 249
+ar 63 64 440
+ar 64 65 651
+ar 65 66 312
+ar 66 67 139
+ar 67 68 201
+ar 68 69 244
+ar 69 70 299
+ar 70 71 507
+ar 71 72 759
+ar 72 73 911
+ar 73 74 586
+ar 74 75 898
+ar 75 76 177
+ar 76 77 878
+ar 77 78 729
+ar 78 79 508
+ar 79 80 621
+ar 80 81 393
+ar 81 82 835
+ar 82 83 585
+ar 83 84 348
+ar 84 85 551
+ar 85 86 833
+ar 86 87 206
+ar 87 88 169
+ar 88 89 874
+ar 89 90 745
+ar 90 91 392
+ar 91 92 281
+ar 92 93 714
+ar 93 94 769
+ar 94 95 699
+ar 95 96 911
+ar 96 97 864
+ar 97 98 110
+ar 98 99 203
+ar 99 100 510
+ar 100 101 996
+ar 101 102 617
+ar 102 103 994
+ar 103 104 665
+ar 104 105 137
+ar 105 106 63
+ar 106 107 593
+ar 107 108 482
+ar 108 109 654
+ar 109 110 882
+ar 110 111 238
+ar 111 112 493
+ar 112 113 522
+ar 113 114 843
+ar 114 115 29
+ar 115 116 846
+ar 116 117 162
+ar 117 118 29
+ar 118 119 680
+ar 119 120 36
+ar 120 121 398
+ar 121 122 740
+ar 122 123 638
+ar 123 124 575
+ar 124 125 638
+ar 125 126 431
+ar 126 127 398
+ar 127 128 6
+ar 128 129 141
+ar 129 130 202
+ar 130 131 326
+ar 131 132 979
+ar 132 133 556
+ar 133 134 472
+ar 134 135 979
+ar 135 136 862
+ar 136 137 873
+ar 137 138 81
+ar 138 139 732
+ar 139 140 210
+ar 140 141 416
+ar 141 142 824
+ar 142 143 312
+ar 143 144 534
+ar 144 145 754
+ar 145 146 916
+ar 146 147 999
+ar 147 148 990
+ar 148 149 641
+ar 149 150 208
+ar 150 151 983
+ar 151 152 24
+ar 152 153 187
+ar 153 154 35
+ar 154 155 708
+ar 155 156 32
+ar 156 157 636
+ar 157 158 237
+ar 158 159 630
+ar 159 160 58
+ar 160 161 887
+ar 161 162 363
+ar 162 163 627
+ar 163 164 283
+ar 164 165 194
+ar 165 166 504
+ar 166 167 668
+ar 167 168 647
+ar 168 169 670
+ar 169 170 903
+ar 170 171 446
+ar 171 172 201
+ar 172 173 941
+ar 173 174 403
+ar 174 175 308
+ar 175 176 665
+ar 176 177 509
+ar 177 178 720
+ar 178 179 89
+ar 179 180 173
+ar 180 181 192
+ar 181 182 141
+ar 182 183 777
+ar 183 184 866
+ar 184 185 975
+ar 185 186 477
+ar 186 187 374
+ar 187 188 580
+ar 188 189 585
+ar 189 190 6
+ar 190 191 795
+ar 191 192 315
+ar 192 193 533
+ar 193 194 472
+ar 194 195 180
+ar 195 196 802
+ar 196 197 111
+ar 197 198 88
+ar 198 199 914
+ar 199 200 976
+ar 200 201 909
+ar 201 202 626
+ar 202 203 883
+ar 203 204 260
+ar 204 205 204
+ar 205 206 205
+ar 206 207 445
+ar 207 208 728
+ar 208 209 501
+ar 209 210 820
+ar 210 211 646
+ar 211 212 344
+ar 212 213 749
+ar 213 214 543
+ar 214 215 840
+ar 215 216 943
+ar 216 217 260
+ar 217 218 686
+ar 218 219 361
+ar 219 220 695
+ar 220 221 762
+ar 221 222 295
+ar 222 223 142
+ar 223 224 683
+ar 224 225 79
+ar 225 226 456
+ar 226 227 334
+ar 227 228 257
+ar 228 229 645
+ar 229 230 808
+ar 230 231 888
+ar 231 232 662
+ar 232 233 475
+ar 233 234 457
+ar 234 235 611
+ar 235 236 746
+ar 236 237 580
+ar 237 238 758
+ar 238 239 798
+ar 239 240 693
+ar 240 241 482
+ar 241 242 560
+ar 242 243 494
+ar 243 244 208
+ar 244 245 377
+ar 245 246 599
+ar 246 247 266
+ar 247 248 826
+ar 248 249 371
+ar 249 250 921
+ar 250 251 142
+ar 251 252 350
+ar 252 253 169
+ar 253 254 396
+ar 254 255 302
+ar 255 256 722
+ar 256 257 557
+ar 257 258 137
+ar 258 259 393
+ar 259 260 335
+ar 260 261 123
+ar 261 262 186
+ar 262 263 671
+ar 263 264 707
+ar 264 265 346
+ar 265 266 175
+ar 266 267 271
+ar 267 268 38
+ar 268 269 111
+ar 269 270 589
+ar 270 271 552
+ar 271 272 916
+ar 272 273 824
+ar 273 274 654
+ar 274 275 942
+ar 275 276 965
+ar 276 277 342
+ar 277 278 702
+ar 278 279 592
+ar 279 280 415
+ar 280 281 672
+ar 281 282 482
+ar 282 283 467
+ar 283 284 69
+ar 284 285 418
+ar 285 286 14
+ar 286 287 282
+ar 287 288 853
+ar 288 289 90
+ar 289 290 118
+ar 290 291 199
+ar 291 292 543
+ar 292 293 275
+ar 293 294 750
+ar 294 295 194
+ar 295 296 765
+ar 296 297 63
+ar 297 298 135
+ar 298 299 456
+ar 299 300 276
+ar 300 301 565
+ar 301 302 640
+ar 302 303 744
+ar 303 304 678
+ar 304 305 609
+ar 305 306 390
+ar 306 307 311
+ar 307 308 893
+ar 308 309 837
+ar 309 310 717
+ar 310 311 410
+ar 311 312 327
+ar 312 313 87
+ar 313 314 776
+ar 314 315 37
+ar 315 316 136
+ar 316 317 374
+ar 317 318 857
+ar 318 319 943
+ar 319 320 418
+ar 320 321 840
+ar 321 322 108
+ar 322 323 285
+ar 323 324 141
+ar 324 325 231
+ar 325 326 702
+ar 326 327 768
+ar 327 328 354
+ar 328 329 938
+ar 329 330 793
+ar 330 331 978
+ar 331 332 886
+ar 332 333 110
+ar 333 334 323
+ar 334 335 320
+ar 335 336 382
+ar 336 337 809
+ar 337 338 158
+ar 338 339 404
+ar 339 340 238
+ar 340 341 253
+ar 341 342 713
+ar 342 343 219
+ar 343 344 37
+ar 344 345 844
+ar 345 346 311
+ar 346 347 303
+ar 347 348 857
+ar 348 349 38
+ar 349 350 571
+ar 350 351 522
+ar 351 352 414
+ar 352 353 261
+ar 353 354 653
+ar 354 355 727
+ar 355 356 888
+ar 356 357 113
+ar 357 358 450
+ar 358 359 289
+ar 359 360 909
+ar 360 361 108
+ar 361 362 180
+ar 362 363 188
+ar 363 364 318
+ar 364 365 581
+ar 365 366 788
+ar 366 367 813
+ar 367 368 353
+ar 368 369 161
+ar 369 370 662
+ar 370 371 772
+ar 371 372 798
+ar 372 373 119
+ar 373 374 969
+ar 374 375 106
+ar 375 376 414
+ar 376 377 993
+ar 377 378 908
+ar 378 379 990
+ar 379 380 823
+ar 380 381 345
+ar 381 382 12
+ar 382 383 109
+ar 383 384 494
+ar 384 385 111
+ar 385 386 137
+ar 386 387 549
+ar 387 388 619
+ar 388 389 914
+ar 389 390 141
+ar 390 391 562
+ar 391 392 522
+ar 392 393 277
+ar 393 394 170
+ar 394 395 659
+ar 395 396 779
+ar 396 397 275
+ar 397 398 124
+ar 398 399 132
+ar 399 400 307
+ar 400 401 440
+ar 401 402 704
+ar 402 403 447
+ar 403 404 657
+ar 404 405 421
+ar 405 406 705
+ar 406 407 66
+ar 407 408 773
+ar 408 409 621
+ar 409 410 488
+ar 410 411 778
+ar 411 412 121
+ar 412 413 422
+ar 413 414 773
+ar 414 415 438
+ar 415 416 435
+ar 416 417 239
+ar 417 418 787
+ar 418 419 793
+ar 419 420 137
+ar 420 421 85
+ar 421 422 129
+ar 422 423 978
+ar 423 424 677
+ar 424 425 916
+ar 425 426 472
+ar 426 427 707
+ar 427 428 766
+ar 428 429 888
+ar 429 430 632
+ar 430 431 305
+ar 431 432 615
+ar 432 433 512
+ar 433 434 666
+ar 434 435 475
+ar 435 436 394
+ar 436 437 79
+ar 437 438 406
+ar 438 439 150
+ar 439 440 763
+ar 440 441 114
+ar 441 442 285
+ar 442 443 357
+ar 443 444 128
+ar 444 445 329
+ar 445 446 857
+ar 446 447 562
+ar 447 448 672
+ar 448 449 264
+ar 449 450 136
+ar 450 451 507
+ar 451 452 64
+ar 452 453 279
+ar 453 454 708
+ar 454 455 305
+ar 455 456 981
+ar 456 457 589
+ar 457 458 369
+ar 458 459 867
+ar 459 460 796
+ar 460 461 578
+ar 461 462 77
+ar 462 463 471
+ar 463 464 507
+ar 464 465 541
+ar 465 466 766
+ar 466 467 117
+ar 467 468 875
+ar 468 469 680
+ar 469 470 440
+ar 470 471 583
+ar 471 472 217
+ar 472 473 688
+ar 473 474 901
+ar 474 475 903
+ar 475 476 771
+ar 476 477 528
+ar 477 478 532
+ar 478 479 973
+ar 479 480 292
+ar 480 481 102
+ar 481 482 87
+ar 482 483 167
+ar 483 484 776
+ar 484 485 15
+ar 485 486 642
+ar 486 487 432
+ar 487 488 492
+ar 488 489 629
+ar 489 490 252
+ar 490 491 482
+ar 491 492 675
+ar 492 493 905
+ar 493 494 173
+ar 494 495 887
+ar 495 496 931
+ar 496 497 461
+ar 497 498 325
+ar 498 499 650
+ar 499 500 989
+ar 500 501 1
+ar 501 502 973
+ar 502 503 438
+ar 503 504 889
+ar 504 505 588
+ar 505 506 245
+ar 506 507 335
+ar 507 508 203
+ar 508 509 942
+ar 509 510 12
+ar 510 511 690
+ar 511 512 777
+ar 512 513 765
+ar 513 514 118
+ar 514 515 583
+ar 515 516 672
+ar 516 517 541
+ar 517 518 171
+ar 518 519 621
+ar 519 520 866
+ar 520 521 730
+ar 521 522 83
+ar 522 523 51
+ar 523 524 174
+ar 524 525 888
+ar 525 526 633
+ar 526 527 924
+ar 527 528 898
+ar 528 529 565
+ar 529 530 979
+ar 530 531 830
+ar 531 532 912
+ar 532 533 494
+ar 533 534 314
+ar 534 535 378
+ar 535 536 127
+ar 536 537 626
+ar 537 538 335
+ar 538 539 322
+ar 539 540 400
+ar 540 541 157
+ar 541 542 450
+ar 542 543 701
+ar 543 544 260
+ar 544 545 28
+ar 545 546 16
+ar 546 547 725
+ar 547 548 177
+ar 548 549 299
+ar 549 550 475
+ar 550 551 988
+ar 551 552 675
+ar 552 553 555
+ar 553 554 665
+ar 554 555 618
+ar 555 556 676
+ar 556 557 420
+ar 557 558 844
+ar 558 559 594
+ar 559 560 666
+ar 560 561 912
+ar 561 562 196
+ar 562 563 897
+ar 563 564 50
+ar 564 565 535
+ar 565 566 512
+ar 566 567 235
+ar 567 568 467
+ar 568 569 913
+ar 569 570 22
+ar 570 571 15
+ar 571 572 298
+ar 572 573 695
+ar 573 574 472
+ar 574 575 254
+ar 575 576 267
+ar 576 577 238
+ar 577 578 203
+ar 578 579 366
+ar 579 580 473
+ar 580 581 604
+ar 581 582 469
+ar 582 583 762
+ar 583 584 414
+ar 584 585 925
+ar 585 586 637
+ar 586 587 235
+ar 587 588 259
+ar 588 589 648
+ar 589 590 404
+ar 590 591 236
+ar 591 592 293
+ar 592 593 128
+ar 593 594 554
+ar 594 595 367
+ar 595 596 892
+ar 596 597 435
+ar 597 598 823
+ar 598 599 165
+ar 599 600 834
+ar 600 601 120
+ar 601 602 473
+ar 602 603 314
+ar 603 604 179
+ar 604 605 5
+ar 605 606 173
+ar 606 607 566
+ar 607 608 980
+ar 608 609 565
+ar 609 610 407
+ar 610 611 972
+ar 611 612 295
+ar 612 613 230
+ar 613 614 481
+ar 614 615 818
+ar 615 616 440
+ar 616 617 366
+ar 617 618 953
+ar 618 619 645
+ar 619 620 559
+ar 620 621 590
+ar 621 622 646
+ar 622 623 359
+ar 623 624 819
+ar 624 625 871
+ar 625 626 937
+ar 626 627 446
+ar 627 628 152
+ar 628 629 699
+ar 629 630 707
+ar 630 631 967
+ar 631 632 542
+ar 632 633 221
+ar 633 634 953
+ar 634 635 597
+ar 635 636 29
+ar 636 637 205
+ar 637 638 595
+ar 638 639 646
+ar 639 640 232
+ar 640 641 947
+ar 641 642 199
+ar 642 643 546
+ar 643 644 398
+ar 644 645 414
+ar 645 646 372
+ar 646 647 350
+ar 647 648 28
+ar 648 649 767
+ar 649 650 195
+ar 650 651 603
+ar 651 652 495
+ar 652 653 726
+ar 653 654 843
+ar 654 655 527
+ar 655 656 877
+ar 656 657 156
+ar 657 658 863
+ar 658 659 879
+ar 659 660 100
+ar 660 661 969
+ar 661 662 362
+ar 662 663 25
+ar 663 664 564
+ar 664 665 487
+ar 665 666 570
+ar 666 667 256
+ar 667 668 912
+ar 668 669 136
+ar 669 670 776
+ar 670 671 409
+ar 671 672 253
+ar 672 673 153
+ar 673 674 722
+ar 674 675 783
+ar 675 676 770
+ar 676 677 264
+ar 677 678 148
+ar 678 679 462
+ar 679 680 845
+ar 680 681 575
+ar 681 682 260
+ar 682 683 138
+ar 683 684 748
+ar 684 685 938
+ar 685 686 743
+ar 686 687 215
+ar 687 688 756
+ar 688 689 505
+ar 689 690 631
+ar 690 691 630
+ar 691 692 499
+ar 692 693 612
+ar 693 694 399
+ar 694 695 899
+ar 695 696 261
+ar 696 697 280
+ar 697 698 269
+ar 698 699 169
+ar 699 700 650
+ar 700 701 248
+ar 701 702 904
+ar 702 703 624
+ar 703 704 394
+ar 704 705 252
+ar 705 706 224
+ar 706 707 181
+ar 707 708 478
+ar 708 709 348
+ar 709 710 554
+ar 710 711 374
+ar 711 712 947
+ar 712 713 9
+ar 713 714 614
+ar 714 715 972
+ar 715 716 754
+ar 716 717 567
+ar 717 718 298
+ar 718 719 13
+ar 719 720 932
+ar 720 721 266
+ar 721 722 644
+ar 722 723 411
+ar 723 724 663
+ar 724 725 664
+ar 725 726 429
+ar 726 727 937
+ar 727 728 915
+ar 728 729 204
+ar 729 730 308
+ar 730 731 692
+ar 731 732 560
+ar 732 733 982
+ar 733 734 431
+ar 734 735 437
+ar 735 736 193
+ar 736 737 342
+ar 737 738 528
+ar 738 739 664
+ar 739 740 820
+ar 740 741 166
+ar 741 742 802
+ar 742 743 889
+ar 743 744 575
+ar 744 745 117
+ar 745 746 565
+ar 746 747 98
+ar 747 748 239
+ar 748 749 885
+ar 749 750 669
+ar 750 751 96
+ar 751 752 474
+ar 752 753 821
+ar 753 754 673
+ar 754 755 681
+ar 755 756 664
+ar 756 757 559
+ar 757 758 271
+ar 758 759 928
+ar 759 760 932
+ar 760 761 957
+ar 761 762 310
+ar 762 763 195
+ar 763 764 777
+ar 764 765 912
+ar 765 766 491
+ar 766 767 581
+ar 767 768 314
+ar 768 769 884
+ar 769 770 558
+ar 770 771 961
+ar 771 772 643
+ar 772 773 148
+ar 773 774 314
+ar 774 775 719
+ar 775 776 569
+ar 776 777 981
+ar 777 778 54
+ar 778 779 261
+ar 779 780 482
+ar 780 781 302
+ar 781 782 221
+ar 782 783 547
+ar 783 784 640
+ar 784 785 646
+ar 785 786 270
+ar 786 787 380
+ar 787 788 599
+ar 788 789 724
+ar 789 790 684
+ar 790 791 981
+ar 791 792 377
+ar 792 793 60
+ar 793 794 209
+ar 794 795 265
+ar 795 796 927
+ar 796 797 606
+ar 797 798 950
+ar 798 799 961
+ar 799 800 339
+ar 800 801 574
+ar 801 802 287
+ar 802 803 754
+ar 803 804 555
+ar 804 805 391
+ar 805 806 455
+ar 806 807 901
+ar 807 808 216
+ar 808 809 772
+ar 809 810 275
+ar 810 811 158
+ar 811 812 723
+ar 812 813 689
+ar 813 814 58
+ar 814 815 36
+ar 815 816 339
+ar 816 817 987
+ar 817 818 619
+ar 818 819 196
+ar 819 820 851
+ar 820 821 189
+ar 821 822 900
+ar 822 823 849
+ar 823 824 702
+ar 824 825 545
+ar 825 826 42
+ar 826 827 502
+ar 827 828 926
+ar 828 829 237
+ar 829 830 616
+ar 830 831 539
+ar 831 832 714
+ar 832 833 470
+ar 833 834 584
+ar 834 835 473
+ar 835 836 187
+ar 836 837 923
+ar 837 838 60
+ar 838 839 111
+ar 839 840 400
+ar 840 841 434
+ar 841 842 580
+ar 842 843 761
+ar 843 844 21
+ar 844 845 111
+ar 845 846 961
+ar 846 847 612
+ar 847 848 80
+ar 848 849 914
+ar 849 850 479
+ar 850 851 566
+ar 851 852 562
+ar 852 853 981
+ar 853 854 622
+ar 854 855 134
+ar 855 856 282
+ar 856 857 268
+ar 857 858 689
+ar 858 859 987
+ar 859 860 446
+ar 860 861 705
+ar 861 862 36
+ar 862 863 923
+ar 863 864 331
+ar 864 865 396
+ar 865 866 97
+ar 866 867 295
+ar 867 868 458
+ar 868 869 703
+ar 869 870 700
+ar 870 871 408
+ar 871 872 454
+ar 872 873 475
+ar 873 874 369
+ar 874 875 790
+ar 875 876 459
+ar 876 877 35
+ar 877 878 444
+ar 878 879 703
+ar 879 880 85
+ar 880 881 271
+ar 881 882 656
+ar 882 883 407
+ar 883 884 632
+ar 884 885 257
+ar 885 886 497
+ar 886 887 557
+ar 887 888 881
+ar 888 889 649
+ar 889 890 334
+ar 890 891 285
+ar 891 892 450
+ar 892 893 574
+ar 893 894 903
+ar 894 895 362
+ar 895 896 683
+ar 896 897 5
+ar 897 898 581
+ar 898 899 143
+ar 899 900 42
+ar 900 901 150
+ar 901 902 93
+ar 902 903 700
+ar 903 904 575
+ar 904 905 699
+ar 905 906 147
+ar 906 907 919
+ar 907 908 612
+ar 908 909 862
+ar 909 910 968
+ar 910 911 323
+ar 911 912 171
+ar 912 913 995
+ar 913 914 115
+ar 914 915 385
+ar 915 916 43
+ar 916 917 639
+ar 917 918 640
+ar 918 919 479
+ar 919 920 122
+ar 920 921 144
+ar 921 922 269
+ar 922 923 502
+ar 923 924 922
+ar 924 925 342
+ar 925 926 969
+ar 926 927 164
+ar 927 928 443
+ar 928 929 986
+ar 929 930 627
+ar 930 931 425
+ar 931 932 641
+ar 932 933 557
+ar 933 934 757
+ar 934 935 745
+ar 935 936 610
+ar 936 937 739
+ar 937 938 992
+ar 938 939 97
+ar 939 940 607
+ar 940 941 449
+ar 941 942 727
+ar 942 943 395
+ar 943 944 76
+ar 944 945 315
+ar 945 946 339
+ar 946 947 648
+ar 947 948 477
+ar 948 949 411
+ar 949 950 111
+ar 950 951 849
+ar 951 952 348
+ar 952 953 34
+ar 953 954 890
+ar 954 955 903
+ar 955 956 602
+ar 956 957 436
+ar 957 958 341
+ar 958 959 74
+ar 959 960 679
+ar 960 961 853
+ar 961 962 932
+ar 962 963 559
+ar 963 964 239
+ar 964 965 941
+ar 965 966 86
+ar 966 967 210
+ar 967 968 332
+ar 968 969 263
+ar 969 970 818
+ar 970 971 22
+ar 971 972 331
+ar 972 973 528
+ar 973 974 857
+ar 974 975 164
+ar 975 976 196
+ar 976 977 503
+ar 977 978 180
+ar 978 979 619
+ar 979 980 433
+ar 980 981 530
+ar 981 982 971
+ar 982 983 729
+ar 983 984 494
+ar 984 985 903
+ar 985 986 633
+ar 986 987 87
+ar 987 988 51
+ar 988 989 950
+ar 989 990 188
+ar 990 991 893
+ar 991 992 846
+ar 992 993 155
+ar 993 994 502
+ar 994 995 652
+ar 995 996 584
+ar 996 997 984
+ar 997 998 745
+ar 998 999 348
+ar 999 1000 635
+ar 1000 1001 502
+ar 1001 1002 384
+ar 1002 1003 346
+ar 1003 1004 694
+ar 1004 1005 820
+ar 1005 1006 437
+ar 1006 1007 782
+ar 1007 1008 312
+ar 1008 1009 654
+ar 1009 1010 63
+ar 1010 1011 413
+ar 1011 1012 695
+ar 1012 1013 406
+ar 1013 1014 218
+ar 1014 1015 355
+ar 1015 1016 415
+ar 1016 1017 98
+ar 1017 1018 308
+ar 1018 1019 816
+ar 1019 1020 528
+ar 1020 1021 438
+ar 1021 1022 558
+ar 1022 1023 65
+ar 1023 1024 792
+ar 1024 1025 7
+ar 1025 1026 181
+ar 1026 1027 882
+ar 1027 1028 707
+ar 1028 1029 35
+ar 1029 1030 74
+ar 1030 1031 528
+ar 1031 1032 72
+ar 1032 1033 985
+ar 1033 1034 285
+ar 1034 1035 258
+ar 1035 1036 891
+ar 1036 1037 447
+ar 1037 1038 814
+ar 1038 1039 987
+ar 1039 1040 867
+ar 1040 1041 160
+ar 1041 1042 782
+ar 1042 1043 683
+ar 1043 1044 279
+ar 1044 1045 857
+ar 1045 1046 536
+ar 1046 1047 492
+ar 1047 1048 624
+ar 1048 1049 330
+ar 1049 1050 298
+ar 1050 1051 387
+ar 1051 1052 638
+ar 1052 1053 857
+ar 1053 1054 768
+ar 1054 1055 418
+ar 1055 1056 284
+ar 1056 1057 83
+ar 1057 1058 655
+ar 1058 1059 113
+ar 1059 1060 400
+ar 1060 1061 908
+ar 1061 1062 887
+ar 1062 1063 760
+ar 1063 1064 850
+ar 1064 1065 540
+ar 1065 1066 426
+ar 1066 1067 640
+ar 1067 1068 877
+ar 1068 1069 200
+ar 1069 1070 477
+ar 1070 1071 161
+ar 1071 1072 423
+ar 1072 1073 188
+ar 1073 1074 912
+ar 1074 1075 36
+ar 1075 1076 489
+ar 1076 1077 893
+ar 1077 1078 868
+ar 1078 1079 607
+ar 1079 1080 757
+ar 1080 1081 341
+ar 1081 1082 561
+ar 1082 1083 322
+ar 1083 1084 214
+ar 1084 1085 92
+ar 1085 1086 544
+ar 1086 1087 361
+ar 1087 1088 215
+ar 1088 1089 95
+ar 1089 1090 447
+ar 1090 1091 963
+ar 1091 1092 743
+ar 1092 1093 545
+ar 1093 1094 464
+ar 1094 1095 642
+ar 1095 1096 299
+ar 1096 1097 823
+ar 1097 1098 344
+ar 1098 1099 913
+ar 1099 1100 896
+ar 1100 1101 593
+ar 1101 1102 187
+ar 1102 1103 274
+ar 1103 1104 467
+ar 1104 1105 523
+ar 1105 1106 660
+ar 1106 1107 357
+ar 1107 1108 178
+ar 1108 1109 454
+ar 1109 1110 836
+ar 1110 1111 219
+ar 1111 1112 107
+ar 1112 1113 907
+ar 1113 1114 420
+ar 1114 1115 414
+ar 1115 1116 380
+ar 1116 1117 494
+ar 1117 1118 618
+ar 1118 1119 684
+ar 1119 1120 664
+ar 1120 1121 582
+ar 1121 1122 919
+ar 1122 1123 788
+ar 1123 1124 836
+ar 1124 1125 623
+ar 1125 1126 34
+ar 1126 1127 681
+ar 1127 1128 940
+ar 1128 1129 791
+ar 1129 1130 890
+ar 1130 1131 715
+ar 1131 1132 949
+ar 1132 1133 747
+ar 1133 1134 379
+ar 1134 1135 201
+ar 1135 1136 876
+ar 1136 1137 191
+ar 1137 1138 279
+ar 1138 1139 749
+ar 1139 1140 962
+ar 1140 1141 887
+ar 1141 1142 269
+ar 1142 1143 764
+ar 1143 1144 888
+ar 1144 1145 631
+ar 1145 1146 513
+ar 1146 1147 412
+ar 1147 1148 280
+ar 1148 1149 280
+ar 1149 1150 660
+ar 1150 1151 823
+ar 1151 1152 568
+ar 1152 1153 113
+ar 1153 1154 8
+ar 1154 1155 963
+ar 1155 1156 274
+ar 1156 1157 212
+ar 1157 1158 559
+ar 1158 1159 438
+ar 1159 1160 149
+ar 1160 1161 165
+ar 1161 1162 219
+ar 1162 1163 435
+ar 1163 1164 323
+ar 1164 1165 38
+ar 1165 1166 959
+ar 1166 1167 141
+ar 1167 1168 916
+ar 1168 1169 311
+ar 1169 1170 921
+ar 1170 1171 58
+ar 1171 1172 681
+ar 1172 1173 258
+ar 1173 1174 999
+ar 1174 1175 256
+ar 1175 1176 172
+ar 1176 1177 683
+ar 1177 1178 47
+ar 1178 1179 341
+ar 1179 1180 81
+ar 1180 1181 661
+ar 1181 1182 812
+ar 1182 1183 796
+ar 1183 1184 258
+ar 1184 1185 828
+ar 1185 1186 491
+ar 1186 1187 77
+ar 1187 1188 473
+ar 1188 1189 320
+ar 1189 1190 942
+ar 1190 1191 652
+ar 1191 1192 226
+ar 1192 1193 766
+ar 1193 1194 125
+ar 1194 1195 941
+ar 1195 1196 803
+ar 1196 1197 247
+ar 1197 1198 41
+ar 1198 1199 938
+ar 1199 1200 37
+ar 1200 1201 300
+ar 1201 1202 250
+ar 1202 1203 884
+ar 1203 1204 524
+ar 1204 1205 40
+ar 1205 1206 1
+ar 1206 1207 357
+ar 1207 1208 484
+ar 1208 1209 263
+ar 1209 1210 869
+ar 1210 1211 914
+ar 1211 1212 976
+ar 1212 1213 248
+ar 1213 1214 160
+ar 1214 1215 739
+ar 1215 1216 513
+ar 1216 1217 159
+ar 1217 1218 248
+ar 1218 1219 734
+ar 1219 1220 335
+ar 1220 1221 882
+ar 1221 1222 28
+ar 1222 1223 907
+ar 1223 1224 861
+ar 1224 1225 707
+ar 1225 1226 707
+ar 1226 1227 113
+ar 1227 1228 251
+ar 1228 1229 288
+ar 1229 1230 948
+ar 1230 1231 544
+ar 1231 1232 554
+ar 1232 1233 875
+ar 1233 1234 568
+ar 1234 1235 568
+ar 1235 1236 173
+ar 1236 1237 633
+ar 1237 1238 787
+ar 1238 1239 314
+ar 1239 1240 680
+ar 1240 1241 873
+ar 1241 1242 333
+ar 1242 1243 651
+ar 1243 1244 175
+ar 1244 1245 319
+ar 1245 1246 526
+ar 1246 1247 431
+ar 1247 1248 974
+ar 1248 1249 369
+ar 1249 1250 733
+ar 1250 1251 489
+ar 1251 1252 57
+ar 1252 1253 29
+ar 1253 1254 933
+ar 1254 1255 640
+ar 1255 1256 397
+ar 1256 1257 138
+ar 1257 1258 905
+ar 1258 1259 52
+ar 1259 1260 231
+ar 1260 1261 329
+ar 1261 1262 469
+ar 1262 1263 300
+ar 1263 1264 170
+ar 1264 1265 315
+ar 1265 1266 219
+ar 1266 1267 938
+ar 1267 1268 541
+ar 1268 1269 105
+ar 1269 1270 10
+ar 1270 1271 283
+ar 1271 1272 326
+ar 1272 1273 841
+ar 1273 1274 965
+ar 1274 1275 288
+ar 1275 1276 183
+ar 1276 1277 612
+ar 1277 1278 672
+ar 1278 1279 237
+ar 1279 1280 936
+ar 1280 1281 491
+ar 1281 1282 711
+ar 1282 1283 438
+ar 1283 1284 855
+ar 1284 1285 295
+ar 1285 1286 176
+ar 1286 1287 668
+ar 1287 1288 834
+ar 1288 1289 304
+ar 1289 1290 498
+ar 1290 1291 132
+ar 1291 1292 388
+ar 1292 1293 679
+ar 1293 1294 870
+ar 1294 1295 863
+ar 1295 1296 772
+ar 1296 1297 670
+ar 1297 1298 445
+ar 1298 1299 566
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0
+qgvs 0

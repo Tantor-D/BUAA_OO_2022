@@ -1,0 +1,6 @@
+[0.013s][error][cds] Failed to commit static  region #1 (ReadOnly)
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Native memory allocation (mmap) failed to map 65536 bytes for Failed to commit metaspace.
+# An error report file with more information is saved as:
+# E:\software_data\OO_task\homework\tester\tester_of_homework11\hs_err_pid23592.log

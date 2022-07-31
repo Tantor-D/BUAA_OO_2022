@@ -1,0 +1,6 @@
+[1.8]ADD-building-6-A
+[2.3]ADD-building-7-A
+[3.1]1-FROM-A-5-TO-A-10
+[4.0]2-FROM-A-5-TO-A-7
+[4.0]3-FROM-A-2-TO-A-1
+[50.0]4-FROM-C-7-TO-C-3

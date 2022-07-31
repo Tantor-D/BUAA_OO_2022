@@ -1,0 +1,16 @@
+2021/7/1-Jack@JayChou :"Hello! mydear aabbcc.";2021/7/3-JayChou@buaaer :"aabbcccc, nice to meet you.";
+2021/7/5-JayChou@Mike :"emmmm...aabbbcc, I am sorry.";
+2021/7/6-JayChou@Mike :"emmmm...aabbbbbbbcc, I do not want to talk to you.";         2020/7/8-JayChou@buaaer :"Hahaha! see you again abc";
+2020/7/8-JayChou@Sabbaty :"Hahaha! Sabbaty, come to the center!";
+2021/6/8-JayChou:"I am aaabbbbbbbbcc!";
+2021/7/11-JayChou:"aaabbbbbbbbcc, I love you!";
+2021/1/1-JayChou:"aabbc@c ";
+END_OF_MESSAGE
+qmess A 1
+qmess A 2
+qmess A 3
+qmess A 4
+qmess B 1
+qmess B 2
+qmess B 3
+qmess B 4

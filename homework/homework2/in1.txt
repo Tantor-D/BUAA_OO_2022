@@ -1,0 +1,43 @@
+1
+f1 pow x +000
+f2 cos f1
+f3 pow x 2
+f4 sin f3
+f5 mul f2 f4
+f6 pow x +002
+f7 mul f5 f6
+f8 neg f7
+f9 mul 0 f8
+f10 neg f9
+f11 sub 5 1
+f12 mul f11 5
+f13 sub 6 1
+f14 mul f13 6
+f15 add f12 f14
+f16 sub 7 1
+f17 mul f16 7
+f18 add f15 f17
+f19 sub 8 1
+f20 mul f19 8
+f21 add f18 f20
+f22 pos f21
+f23 cos 002
+f24 add f22 f23
+f25 mul f24 000
+f26 pow x 3
+f27 sin f26
+f28 pow x 3
+f29 cos f28
+f30 mul f27 f29
+f31 mul f25 f30
+f32 pos f31
+f33 add f10 f32
+f34 sub 0 1
+f35 sub 1 1
+f36 add f34 f35
+f37 sub 2 1
+f38 add f36 f37
+f39 sub f33 f38
+f40 neg f39
+f41 pos -010
+f42 sub f40 f41

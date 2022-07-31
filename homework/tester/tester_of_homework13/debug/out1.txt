@@ -1,0 +1,174 @@
+Total class count is 8.
+Failed, class "class22287" not found
+Failed, class "class22287" not found
+Failed, class "class22287" not found
+Failed, class "class22287" not found
+Failed, class "class22287" not found
+Ok, subclass count of class "class0" is 2.
+Ok, attributes in class "class0" has coupling degree 0.
+Ok, implement interfaces of class "class0" are (inter0_1, inter0_4, inter1_2, inter1_3, inter4_5).
+Ok, operation count of class "class0" is 7.
+Ok, depth of inheritance of class "class0" is 0.
+Ok, operation visibility of method "method2" in class "class0" is public: 0, protected: 0, private: 0, package-private: 0.
+Ok, method "method2" in class "class0" has coupling degree: .
+Ok, operation visibility of method "method4" in class "class0" is public: 0, protected: 0, private: 1, package-private: 2.
+Failed, wrong type of parameters or return value in method "method4" of class "class0".
+Ok, operation visibility of method "method5" in class "class0" is public: 0, protected: 0, private: 0, package-private: 0.
+Ok, method "method5" in class "class0" has coupling degree: .
+Ok, operation visibility of method "method7" in class "class0" is public: 0, protected: 0, private: 0, package-private: 0.
+Ok, method "method7" in class "class0" has coupling degree: .
+Ok, operation visibility of method "method3" in class "class0" is public: 0, protected: 0, private: 0, package-private: 0.
+Ok, method "method3" in class "class0" has coupling degree: .
+Ok, operation visibility of method "method1" in class "class0" is public: 0, protected: 0, private: 0, package-private: 0.
+Ok, method "method1" in class "class0" has coupling degree: .
+Ok, operation visibility of method "method6" in class "class0" is public: 0, protected: 0, private: 0, package-private: 0.
+Ok, method "method6" in class "class0" has coupling degree: .
+Ok, operation visibility of method "method0" in class "class0" is public: 1, protected: 1, private: 0, package-private: 2.
+Failed, wrong type of parameters or return value in method "method0" of class "class0".
+Ok, subclass count of class "class1" is 0.
+Ok, attributes in class "class1" has coupling degree 1.
+Ok, implement interfaces of class "class1" are (inter1_2, inter2_6).
+Ok, operation count of class "class1" is 7.
+Ok, depth of inheritance of class "class1" is 0.
+Ok, operation visibility of method "method2" in class "class1" is public: 0, protected: 0, private: 0, package-private: 1.
+Ok, method "method2" in class "class1" has coupling degree: 0.
+Ok, operation visibility of method "method4" in class "class1" is public: 0, protected: 0, private: 0, package-private: 1.
+Ok, method "method4" in class "class1" has coupling degree: 0.
+Ok, operation visibility of method "method5" in class "class1" is public: 0, protected: 0, private: 1, package-private: 0.
+Ok, method "method5" in class "class1" has coupling degree: 0.
+Ok, operation visibility of method "method7" in class "class1" is public: 0, protected: 0, private: 0, package-private: 1.
+Failed, wrong type of parameters or return value in method "method7" of class "class1".
+Ok, operation visibility of method "method3" in class "class1" is public: 1, protected: 0, private: 0, package-private: 0.
+Failed, wrong type of parameters or return value in method "method3" of class "class1".
+Ok, operation visibility of method "method1" in class "class1" is public: 0, protected: 0, private: 1, package-private: 0.
+Ok, method "method1" in class "class1" has coupling degree: 0.
+Ok, operation visibility of method "method6" in class "class1" is public: 0, protected: 0, private: 0, package-private: 1.
+Ok, method "method6" in class "class1" has coupling degree: 1.
+Ok, operation visibility of method "method0" in class "class1" is public: 0, protected: 0, private: 0, package-private: 0.
+Ok, method "method0" in class "class1" has coupling degree: .
+Ok, subclass count of class "class2" is 2.
+Ok, attributes in class "class2" has coupling degree 1.
+Ok, implement interfaces of class "class2" are (inter0_1, inter0_4, inter0_7, inter1_2, inter1_3, inter1_8, inter2_6, inter4_5, inter8_9).
+Ok, operation count of class "class2" is 7.
+Ok, depth of inheritance of class "class2" is 1.
+Ok, operation visibility of method "method2" in class "class2" is public: 0, protected: 0, private: 1, package-private: 1.
+Ok, method "method2" in class "class2" has coupling degree: 0, 1.
+Ok, operation visibility of method "method4" in class "class2" is public: 0, protected: 0, private: 0, package-private: 0.
+Ok, method "method4" in class "class2" has coupling degree: .
+Ok, operation visibility of method "method5" in class "class2" is public: 0, protected: 0, private: 0, package-private: 1.
+Ok, method "method5" in class "class2" has coupling degree: 1.
+Ok, operation visibility of method "method7" in class "class2" is public: 0, protected: 0, private: 0, package-private: 0.
+Ok, method "method7" in class "class2" has coupling degree: .
+Ok, operation visibility of method "method3" in class "class2" is public: 0, protected: 0, private: 1, package-private: 0.
+Ok, method "method3" in class "class2" has coupling degree: 0.
+Ok, operation visibility of method "method1" in class "class2" is public: 0, protected: 0, private: 0, package-private: 0.
+Ok, method "method1" in class "class2" has coupling degree: .
+Ok, operation visibility of method "method6" in class "class2" is public: 0, protected: 1, private: 0, package-private: 1.
+Ok, method "method6" in class "class2" has coupling degree: 0, 1.
+Ok, operation visibility of method "method0" in class "class2" is public: 0, protected: 0, private: 1, package-private: 0.
+Ok, method "method0" in class "class2" has coupling degree: 1.
+Ok, subclass count of class "class3" is 1.
+Ok, attributes in class "class3" has coupling degree 2.
+Ok, implement interfaces of class "class3" are (inter0_1, inter0_4, inter0_7, inter1_2, inter1_3, inter1_8, inter2_6, inter4_5, inter8_9).
+Ok, operation count of class "class3" is 7.
+Ok, depth of inheritance of class "class3" is 2.
+Ok, operation visibility of method "method2" in class "class3" is public: 0, protected: 0, private: 0, package-private: 0.
+Ok, method "method2" in class "class3" has coupling degree: .
+Ok, operation visibility of method "method4" in class "class3" is public: 0, protected: 1, private: 0, package-private: 1.
+Failed, wrong type of parameters or return value in method "method4" of class "class3".
+Ok, operation visibility of method "method5" in class "class3" is public: 0, protected: 0, private: 0, package-private: 0.
+Ok, method "method5" in class "class3" has coupling degree: .
+Ok, operation visibility of method "method7" in class "class3" is public: 1, protected: 0, private: 0, package-private: 0.
+Ok, method "method7" in class "class3" has coupling degree: 1.
+Ok, operation visibility of method "method3" in class "class3" is public: 1, protected: 0, private: 1, package-private: 0.
+Ok, method "method3" in class "class3" has coupling degree: 0, 1.
+Ok, operation visibility of method "method1" in class "class3" is public: 0, protected: 1, private: 0, package-private: 0.
+Ok, method "method1" in class "class3" has coupling degree: 0.
+Ok, operation visibility of method "method6" in class "class3" is public: 1, protected: 0, private: 0, package-private: 0.
+Ok, method "method6" in class "class3" has coupling degree: 1.
+Ok, operation visibility of method "method0" in class "class3" is public: 0, protected: 0, private: 0, package-private: 0.
+Ok, method "method0" in class "class3" has coupling degree: .
+Ok, subclass count of class "class4" is 0.
+Ok, attributes in class "class4" has coupling degree 3.
+Ok, implement interfaces of class "class4" are (inter0_1, inter0_4, inter0_7, inter1_2, inter1_3, inter1_8, inter2_6, inter4_10, inter4_5, inter8_9).
+Ok, operation count of class "class4" is 7.
+Ok, depth of inheritance of class "class4" is 3.
+Ok, operation visibility of method "method2" in class "class4" is public: 0, protected: 0, private: 2, package-private: 0.
+Ok, method "method2" in class "class4" has coupling degree: 1, 1.
+Ok, operation visibility of method "method4" in class "class4" is public: 0, protected: 0, private: 0, package-private: 1.
+Ok, method "method4" in class "class4" has coupling degree: 2.
+Ok, operation visibility of method "method5" in class "class4" is public: 0, protected: 1, private: 0, package-private: 0.
+Ok, method "method5" in class "class4" has coupling degree: 1.
+Ok, operation visibility of method "method7" in class "class4" is public: 0, protected: 0, private: 0, package-private: 0.
+Ok, method "method7" in class "class4" has coupling degree: .
+Ok, operation visibility of method "method3" in class "class4" is public: 0, protected: 0, private: 0, package-private: 0.
+Ok, method "method3" in class "class4" has coupling degree: .
+Ok, operation visibility of method "method1" in class "class4" is public: 0, protected: 0, private: 0, package-private: 1.
+Failed, wrong type of parameters or return value in method "method1" of class "class4".
+Ok, operation visibility of method "method6" in class "class4" is public: 1, protected: 0, private: 0, package-private: 0.
+Ok, method "method6" in class "class4" has coupling degree: 1.
+Ok, operation visibility of method "method0" in class "class4" is public: 0, protected: 1, private: 0, package-private: 0.
+Ok, method "method0" in class "class4" has coupling degree: 0.
+Ok, subclass count of class "class5" is 1.
+Ok, attributes in class "class5" has coupling degree 2.
+Ok, implement interfaces of class "class5" are (inter0_1, inter0_4, inter0_7, inter1_2, inter1_3, inter1_8, inter2_6, inter4_5, inter8_9).
+Ok, operation count of class "class5" is 7.
+Ok, depth of inheritance of class "class5" is 2.
+Ok, operation visibility of method "method2" in class "class5" is public: 0, protected: 0, private: 0, package-private: 1.
+Ok, method "method2" in class "class5" has coupling degree: 2.
+Ok, operation visibility of method "method4" in class "class5" is public: 0, protected: 1, private: 1, package-private: 0.
+Ok, method "method4" in class "class5" has coupling degree: 1, 1.
+Ok, operation visibility of method "method5" in class "class5" is public: 0, protected: 0, private: 0, package-private: 1.
+Failed, wrong type of parameters or return value in method "method5" of class "class5".
+Ok, operation visibility of method "method7" in class "class5" is public: 0, protected: 0, private: 0, package-private: 1.
+Failed, wrong type of parameters or return value in method "method7" of class "class5".
+Ok, operation visibility of method "method3" in class "class5" is public: 0, protected: 0, private: 0, package-private: 0.
+Ok, method "method3" in class "class5" has coupling degree: .
+Ok, operation visibility of method "method1" in class "class5" is public: 0, protected: 0, private: 0, package-private: 0.
+Ok, method "method1" in class "class5" has coupling degree: .
+Ok, operation visibility of method "method6" in class "class5" is public: 0, protected: 0, private: 0, package-private: 0.
+Ok, method "method6" in class "class5" has coupling degree: .
+Ok, operation visibility of method "method0" in class "class5" is public: 0, protected: 0, private: 1, package-private: 1.
+Failed, wrong type of parameters or return value in method "method0" of class "class5".
+Ok, subclass count of class "class6" is 0.
+Ok, attributes in class "class6" has coupling degree 2.
+Ok, implement interfaces of class "class6" are (inter0_1, inter0_4, inter0_7, inter1_2, inter1_3, inter1_8, inter2_6, inter4_5, inter8_9).
+Ok, operation count of class "class6" is 7.
+Ok, depth of inheritance of class "class6" is 3.
+Ok, operation visibility of method "method2" in class "class6" is public: 0, protected: 0, private: 0, package-private: 0.
+Ok, method "method2" in class "class6" has coupling degree: .
+Ok, operation visibility of method "method4" in class "class6" is public: 0, protected: 0, private: 1, package-private: 0.
+Ok, method "method4" in class "class6" has coupling degree: 0.
+Ok, operation visibility of method "method5" in class "class6" is public: 0, protected: 0, private: 2, package-private: 0.
+Failed, wrong type of parameters or return value in method "method5" of class "class6".
+Ok, operation visibility of method "method7" in class "class6" is public: 0, protected: 0, private: 0, package-private: 0.
+Ok, method "method7" in class "class6" has coupling degree: .
+Ok, operation visibility of method "method3" in class "class6" is public: 0, protected: 0, private: 0, package-private: 0.
+Ok, method "method3" in class "class6" has coupling degree: .
+Ok, operation visibility of method "method1" in class "class6" is public: 2, protected: 0, private: 1, package-private: 0.
+Failed, wrong type of parameters or return value in method "method1" of class "class6".
+Ok, operation visibility of method "method6" in class "class6" is public: 0, protected: 0, private: 0, package-private: 0.
+Ok, method "method6" in class "class6" has coupling degree: .
+Ok, operation visibility of method "method0" in class "class6" is public: 0, protected: 1, private: 0, package-private: 0.
+Ok, method "method0" in class "class6" has coupling degree: 0.
+Ok, subclass count of class "class7" is 0.
+Ok, attributes in class "class7" has coupling degree 3.
+Ok, implement interfaces of class "class7" are (inter0_1, inter0_4, inter1_2, inter1_3, inter4_5).
+Ok, operation count of class "class7" is 7.
+Ok, depth of inheritance of class "class7" is 1.
+Ok, operation visibility of method "method2" in class "class7" is public: 0, protected: 0, private: 1, package-private: 0.
+Ok, method "method2" in class "class7" has coupling degree: 0.
+Ok, operation visibility of method "method4" in class "class7" is public: 0, protected: 0, private: 1, package-private: 0.
+Ok, method "method4" in class "class7" has coupling degree: 1.
+Ok, operation visibility of method "method5" in class "class7" is public: 1, protected: 0, private: 0, package-private: 0.
+Ok, method "method5" in class "class7" has coupling degree: 1.
+Ok, operation visibility of method "method7" in class "class7" is public: 0, protected: 0, private: 1, package-private: 0.
+Ok, method "method7" in class "class7" has coupling degree: 0.
+Ok, operation visibility of method "method3" in class "class7" is public: 0, protected: 0, private: 0, package-private: 0.
+Ok, method "method3" in class "class7" has coupling degree: .
+Ok, operation visibility of method "method1" in class "class7" is public: 0, protected: 1, private: 0, package-private: 1.
+Failed, wrong type of parameters or return value in method "method1" of class "class7".
+Ok, operation visibility of method "method6" in class "class7" is public: 1, protected: 0, private: 0, package-private: 0.
+Ok, method "method6" in class "class7" has coupling degree: 0.
+Ok, operation visibility of method "method0" in class "class7" is public: 0, protected: 0, private: 0, package-private: 0.
+Ok, method "method0" in class "class7" has coupling degree: .

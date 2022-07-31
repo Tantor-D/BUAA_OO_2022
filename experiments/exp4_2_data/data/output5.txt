@@ -1,0 +1,74 @@
+[   0.5200]REQUEST: A, SOLVE STAGE: Assembling, WorkerId: 3
+[   0.5200]REQUEST: H, SOLVE STAGE: Polishing, WorkerId: 2
+[   0.5210]REQUEST: B, SOLVE STAGE: Welding, WorkerId: 1
+[   0.7340]REQUEST: H, FINISH STAGE: Polishing, WorkerId: 2
+[   0.9350]REQUEST: A, FINISH STAGE: Assembling, WorkerId: 3
+[   0.9350]REQUEST: H, SOLVE STAGE: Assembling, WorkerId: 3
+[   0.9350]REQUEST: A, SOLVE STAGE: Packing, WorkerId: 4
+[   1.0440]REQUEST: A, FINISH STAGE: Packing, WorkerId: 4
+[   1.0440]REQUEST FINISH: A
+[   1.3260]REQUEST: B, FINISH STAGE: Welding, WorkerId: 1
+[   1.3260]REQUEST: C, SOLVE STAGE: Welding, WorkerId: 1
+[   1.3260]REQUEST: B, SOLVE STAGE: Polishing, WorkerId: 2
+[   1.3410]REQUEST: H, FINISH STAGE: Assembling, WorkerId: 3
+[   1.3410]REQUEST: H, SOLVE STAGE: Packing, WorkerId: 4
+[   1.4520]REQUEST: H, FINISH STAGE: Packing, WorkerId: 4
+[   1.4520]REQUEST FINISH: H
+[   1.5270]REQUEST: B, FINISH STAGE: Polishing, WorkerId: 2
+[   1.5270]REQUEST: B, SOLVE STAGE: Packing, WorkerId: 4
+[   1.6360]REQUEST: B, FINISH STAGE: Packing, WorkerId: 4
+[   1.6360]REQUEST FINISH: B
+[   2.1320]REQUEST: C, FINISH STAGE: Welding, WorkerId: 1
+[   2.1320]REQUEST: D, SOLVE STAGE: Welding, WorkerId: 1
+[   2.1320]REQUEST: C, SOLVE STAGE: Polishing, WorkerId: 2
+[   2.3380]REQUEST: C, FINISH STAGE: Polishing, WorkerId: 2
+[   2.3380]REQUEST: C, SOLVE STAGE: Packing, WorkerId: 4
+[   2.4470]REQUEST: C, FINISH STAGE: Packing, WorkerId: 4
+[   2.4470]REQUEST FINISH: C
+[   2.9450]REQUEST: D, FINISH STAGE: Welding, WorkerId: 1
+[   2.9450]REQUEST: E, SOLVE STAGE: Welding, WorkerId: 1
+[   2.9450]REQUEST: D, SOLVE STAGE: Assembling, WorkerId: 3
+[   3.3490]REQUEST: D, FINISH STAGE: Assembling, WorkerId: 3
+[   3.3490]REQUEST: D, SOLVE STAGE: Packing, WorkerId: 4
+[   3.4580]REQUEST: D, FINISH STAGE: Packing, WorkerId: 4
+[   3.4580]REQUEST FINISH: D
+[   3.7520]REQUEST: E, FINISH STAGE: Welding, WorkerId: 1
+[   3.7520]REQUEST: F, SOLVE STAGE: Welding, WorkerId: 1
+[   3.7520]REQUEST: E, SOLVE STAGE: Assembling, WorkerId: 3
+[   4.1560]REQUEST: E, FINISH STAGE: Assembling, WorkerId: 3
+[   4.1560]REQUEST: E, SOLVE STAGE: Packing, WorkerId: 4
+[   4.2640]REQUEST: E, FINISH STAGE: Packing, WorkerId: 4
+[   4.2640]REQUEST FINISH: E
+[   4.5590]REQUEST: F, FINISH STAGE: Welding, WorkerId: 1
+[   4.5590]REQUEST: G, SOLVE STAGE: Welding, WorkerId: 1
+[   4.5590]REQUEST: F, SOLVE STAGE: Polishing, WorkerId: 2
+[   4.7630]REQUEST: F, FINISH STAGE: Polishing, WorkerId: 2
+[   4.7630]REQUEST: F, SOLVE STAGE: Assembling, WorkerId: 3
+[   5.1670]REQUEST: F, FINISH STAGE: Assembling, WorkerId: 3
+[   5.1670]REQUEST: F, SOLVE STAGE: Packing, WorkerId: 4
+[   5.2750]REQUEST: F, FINISH STAGE: Packing, WorkerId: 4
+[   5.2750]REQUEST FINISH: F
+[   5.3690]REQUEST: G, FINISH STAGE: Welding, WorkerId: 1
+[   5.3690]REQUEST: I, SOLVE STAGE: Welding, WorkerId: 1
+[   5.3690]REQUEST: G, SOLVE STAGE: Polishing, WorkerId: 2
+[   5.5710]REQUEST: G, FINISH STAGE: Polishing, WorkerId: 2
+[   5.5710]REQUEST: G, SOLVE STAGE: Assembling, WorkerId: 3
+[   5.9770]REQUEST: G, FINISH STAGE: Assembling, WorkerId: 3
+[   5.9770]REQUEST: G, SOLVE STAGE: Packing, WorkerId: 4
+[   6.0850]REQUEST: G, FINISH STAGE: Packing, WorkerId: 4
+[   6.0850]REQUEST FINISH: G
+[   6.1790]REQUEST: I, FINISH STAGE: Welding, WorkerId: 1
+[   6.1790]REQUEST: J, SOLVE STAGE: Welding, WorkerId: 1
+[   6.1790]REQUEST: I, SOLVE STAGE: Polishing, WorkerId: 2
+[   6.3810]REQUEST: I, FINISH STAGE: Polishing, WorkerId: 2
+[   6.3810]REQUEST: I, SOLVE STAGE: Packing, WorkerId: 4
+[   6.4910]REQUEST: I, FINISH STAGE: Packing, WorkerId: 4
+[   6.4910]REQUEST FINISH: I
+[   6.9860]REQUEST: J, FINISH STAGE: Welding, WorkerId: 1
+[   6.9860]REQUEST: J, SOLVE STAGE: Polishing, WorkerId: 2
+[   7.1890]REQUEST: J, FINISH STAGE: Polishing, WorkerId: 2
+[   7.1890]REQUEST: J, SOLVE STAGE: Assembling, WorkerId: 3
+[   7.5960]REQUEST: J, FINISH STAGE: Assembling, WorkerId: 3
+[   7.5960]REQUEST: J, SOLVE STAGE: Packing, WorkerId: 4
+[   7.7040]REQUEST: J, FINISH STAGE: Packing, WorkerId: 4
+[   7.7040]REQUEST FINISH: J

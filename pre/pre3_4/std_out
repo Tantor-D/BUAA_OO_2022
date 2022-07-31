@@ -1,0 +1,42 @@
+2021/7/3-JayChou@buaaer :"aabbcccc, nice to meet you.";
+2021/7/1-Jack@JayChou :"Hello! mydear aabbcc.";
+2021/7/3-JayChou@buaaer :"aabbcccc, nice to meet you.";
+2021/7/5-JayChou@Mike :"emmmm...aabbbcc, I am sorry.";
+2021/7/1-Jack@JayChou :"Hello! mydear aabbcc.";
+2021/7/3-JayChou@buaaer :"aabbcccc, nice to meet you.";
+2021/7/5-JayChou@Mike :"emmmm...aabbbcc, I am sorry.";
+2021/7/6-JayChou@Mike :"emmmm...aabbbbbbbcc, I do not want to talk to you.";
+2020/7/8-JayChou@Sabbaty :"Hahaha! Sabbaty, come to the center!";
+2021/6/8-JayChou:"I am aaabbbbbbbbcc!";
+2021/7/11-JayChou:"aaabbbbbbbbcc, I love you!";
+2021/1/1-JayChou:"aabbc@c ";
+2021/7/3-JayChou@buaaer :"aabbcccc, nice to meet you.";
+2021/7/11-JayChou:"aaabbbbbbbbcc, I love you!";
+2021/7/1-Jack@JayChou :"Hello! mydear aabbcc.";
+2021/7/3-JayChou@buaaer :"aabbcccc, nice to meet you.";
+2021/7/5-JayChou@Mike :"emmmm...aabbbcc, I am sorry.";
+2021/7/6-JayChou@Mike :"emmmm...aabbbbbbbcc, I do not want to talk to you.";
+2021/6/8-JayChou:"I am aaabbbbbbbbcc!";
+2021/7/11-JayChou:"aaabbbbbbbbcc, I love you!";
+2021/7/1-Jack@JayChou :"Hello! mydear aabbcc.";
+2021/7/3-JayChou@buaaer :"aabbcccc, nice to meet you.";
+2021/7/5-JayChou@Mike :"emmmm...aabbbcc, I am sorry.";
+2021/7/6-JayChou@Mike :"emmmm...aabbbbbbbcc, I do not want to talk to you.";
+2020/7/8-JayChou@Sabbaty :"Hahaha! Sabbaty, come to the center!";
+2021/6/8-JayChou:"I am aaabbbbbbbbcc!";
+2021/7/11-JayChou:"aaabbbbbbbbcc, I love you!";
+2021/1/1-JayChou:"aabbc@c ";
+
+
+/*try {
+            scanner = new Scanner(new File("in1.txt"));
+        } catch (Exception e) {
+            System.out.println("修改读入失败");
+        }
+
+        try {
+            PrintStream outStream = new PrintStream("myOut.txt");
+            System.setOut(outStream);
+        } catch (Exception e) {
+            System.out.println("修改输出失败");
+        }*/

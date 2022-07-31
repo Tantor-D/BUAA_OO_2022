@@ -1,0 +1,35 @@
+[   0.5990]REQUEST: A, SOLVE STAGE: Polishing, WorkerId: 2
+[   0.6000]REQUEST: C, SOLVE STAGE: Welding, WorkerId: 1
+[   0.6000]REQUEST: B, SOLVE STAGE: Assembling, WorkerId: 3
+[   0.8020]REQUEST: A, FINISH STAGE: Polishing, WorkerId: 2
+[   1.0060]REQUEST: B, FINISH STAGE: Assembling, WorkerId: 3
+[   1.0060]REQUEST: A, SOLVE STAGE: Assembling, WorkerId: 3
+[   1.0060]REQUEST: B, SOLVE STAGE: Packing, WorkerId: 4
+[   1.1150]REQUEST: B, FINISH STAGE: Packing, WorkerId: 4
+[   1.1150]REQUEST FINISH: B
+[   1.4110]REQUEST: A, FINISH STAGE: Assembling, WorkerId: 3
+[   1.4110]REQUEST: C, FINISH STAGE: Welding, WorkerId: 1
+[   1.4110]REQUEST: A, SOLVE STAGE: Packing, WorkerId: 4
+[   1.4110]REQUEST: D, SOLVE STAGE: Welding, WorkerId: 1
+[   1.5210]REQUEST: A, FINISH STAGE: Packing, WorkerId: 4
+[   1.5210]REQUEST FINISH: A
+[   1.5210]REQUEST: C, SOLVE STAGE: Packing, WorkerId: 4
+[   1.6300]REQUEST: C, FINISH STAGE: Packing, WorkerId: 4
+[   1.6300]REQUEST FINISH: C
+[   2.2190]REQUEST: D, FINISH STAGE: Welding, WorkerId: 1
+[   2.2190]REQUEST: E, SOLVE STAGE: Welding, WorkerId: 1
+[   2.2190]REQUEST: D, SOLVE STAGE: Polishing, WorkerId: 2
+[   2.4330]REQUEST: D, FINISH STAGE: Polishing, WorkerId: 2
+[   2.4330]REQUEST: D, SOLVE STAGE: Assembling, WorkerId: 3
+[   2.8380]REQUEST: D, FINISH STAGE: Assembling, WorkerId: 3
+[   2.8380]REQUEST: D, SOLVE STAGE: Packing, WorkerId: 4
+[   2.9450]REQUEST: D, FINISH STAGE: Packing, WorkerId: 4
+[   2.9450]REQUEST FINISH: D
+[   3.0240]REQUEST: E, FINISH STAGE: Welding, WorkerId: 1
+[   3.0240]REQUEST: E, SOLVE STAGE: Polishing, WorkerId: 2
+[   3.2260]REQUEST: E, FINISH STAGE: Polishing, WorkerId: 2
+[   3.2260]REQUEST: E, SOLVE STAGE: Assembling, WorkerId: 3
+[   3.6320]REQUEST: E, FINISH STAGE: Assembling, WorkerId: 3
+[   3.6320]REQUEST: E, SOLVE STAGE: Packing, WorkerId: 4
+[   3.7410]REQUEST: E, FINISH STAGE: Packing, WorkerId: 4
+[   3.7410]REQUEST FINISH: E

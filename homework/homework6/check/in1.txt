@@ -1,0 +1,11 @@
+[1.0]1-FROM-A-1-TO-A-2
+[2.0]ADD-building-5525-A
+[3.0]ADD-building-4073-B
+[4.0]ADD-floor-6768-7
+[5.0]ADD-floor-4157-4
+[6.0]ADD-floor-5311-3
+[7.0]ADD-floor-4196-6
+[8.0]ADD-floor-8390-1
+[9.0]ADD-floor-2136-3
+[10.0]ADD-building-3749-A
+[11.0]ADD-building-6428-E
